@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.9.4)  7 SEP 2016 10:28
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.9.4)  7 SEP 2016 21:10
 entering extended mode
 **C:/Users/Pranab/Desktop/seminar/main.tex
 (C:/Users/Pranab/Desktop/seminar/main.tex
@@ -679,252 +679,24 @@ Package: beamercolorthemewhale 2010/06/17  (rcs-revision d02a7cf4d8ae)
 (E:\mikTex\tex\latex\beamer\base\themes\color\beamercolorthemeorchid.sty
 Package: beamercolorthemeorchid 2010/06/17  (rcs-revision d02a7cf4d8ae)
 ))
-(E:\mikTex\tex\latex\ctex\ctex.sty
-Package: ctex 2011/03/11 v1.02c ctex macros package
-
-(E:\mikTex\tex\latex\ctex\opt\ctex-common-opts.def)
-(E:\mikTex\tex\latex\ctex\def\ctex-common.def
-(E:\mikTex\tex\latex\l3kernel\expl3.sty
-(E:\mikTex\tex\latex\l3kernel\l3names.sty
-(E:\mikTex\tex\latex\l3kernel\l3bootstrap.sty
-Package: l3bootstrap 2011/12/29 v3110 L3 Experimental bootstrap code
+(E:\mikTex\tex\latex\beamer\base\themes\font\beamerfontthemeserif.sty
+Package: beamerfontthemeserif 2010/06/17  (rcs-revision d02a7cf4d8ae)
 )
-Package: l3names 2012/03/04 v3494 L3 Experimental namespace for primitives
-)
-(E:\mikTex\tex\latex\misc\etex.sty
-Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
-\et@xins=\count153
-)
-Package: expl3 2012/04/23 v3570 L3 Experimental code bundle wrapper
- (E:\mikTex\tex\latex\l3kernel\l3basics.sty
-Package: l3basics 2012/03/04 v3491 L3 Experimental basic definitions
-) (E:\mikTex\tex\latex\l3kernel\l3expan.sty
-Package: l3expan 2012/02/26 v3460 L3 Experimental argument expansion
-)
-(E:\mikTex\tex\latex\l3kernel\l3tl.sty
-Package: l3tl 2012/03/04 v3490 L3 Experimental token lists
-) (E:\mikTex\tex\latex\l3kernel\l3seq.sty
-Package: l3seq 2012/03/04 v3490 L3 Experimental sequences and stacks
-) (E:\mikTex\tex\latex\l3kernel\l3int.sty
-Package: l3int 2012/03/04 v3490 L3 Experimental integers
-\c_max_int=\count154
-\l_tmpa_int=\count155
-\l_tmpb_int=\count156
-\l_tmpc_int=\count157
-\g_tmpa_int=\count158
-\g_tmpb_int=\count159
-)
-(E:\mikTex\tex\latex\l3kernel\l3quark.sty
-Package: l3quark 2012/02/12 v3384 L3 Experimental quarks
-)
-(E:\mikTex\tex\latex\l3kernel\l3prg.sty
-Package: l3prg 2012/03/04 v3490 L3 Experimental control structures
-\g_prg_map_int=\count160
-)
-(E:\mikTex\tex\latex\l3kernel\l3clist.sty
-Package: l3clist 2012/03/04 v3490 L3 Experimental comma separated lists
-)
-(E:\mikTex\tex\latex\l3kernel\l3token.sty
-Package: l3token 2012/03/04 v3491 L3 Experimental token manipulation
-)
-(E:\mikTex\tex\latex\l3kernel\l3prop.sty
-Package: l3prop 2012/03/04 v3490 L3 Experimental property lists
-)
-(E:\mikTex\tex\latex\l3kernel\l3msg.sty
-Package: l3msg 2012/04/23 v3568 L3 Experimental messages
-)
-(E:\mikTex\tex\latex\l3kernel\l3file.sty
-Package: l3file 2012/03/09 v3520 L3 Experimental file and I/O operations
-\l_iow_stream_int=\count161
-\l_iow_line_length_int=\count162
-\l_iow_target_length_int=\count163
-\l_iow_current_line_int=\count164
-\l_iow_current_word_int=\count165
-\l_iow_current_indentation_int=\count166
-)
-(E:\mikTex\tex\latex\l3kernel\l3skip.sty
-Package: l3skip 2012/03/05 v3499 L3 Experimental dimensions and skips
-\l_tmpa_dim=\dimen185
-\l_tmpb_dim=\dimen186
-\l_tmpc_dim=\dimen187
-\g_tmpa_dim=\dimen188
-\g_tmpb_dim=\dimen189
-\l_tmpa_skip=\skip57
-\l_tmpb_skip=\skip58
-\l_tmpc_skip=\skip59
-\g_tmpa_skip=\skip60
-\g_tmpb_skip=\skip61
-)
-(E:\mikTex\tex\latex\l3kernel\l3keys.sty
-Package: l3keys 2012/03/03 v3487 L3 Experimental key-value interfaces
-\g_keyval_level_int=\count167
-\l_keys_choice_int=\count168
-)
-(E:\mikTex\tex\latex\l3kernel\l3fp.sty
-Package: l3fp 2012/03/04 v3490 L3 Experimental floating-point operations
-\c_one_million=\count169
-\c_one_hundred_million=\count170
-\c_five_hundred_million=\count171
-\c_one_thousand_million=\count172
-\c_fp_pi_by_four_decimal_int=\count173
-\c_fp_pi_by_four_extended_int=\count174
-\c_fp_pi_decimal_int=\count175
-\c_fp_pi_extended_int=\count176
-\c_fp_two_pi_decimal_int=\count177
-\c_fp_two_pi_extended_int=\count178
-\l_fp_count_int=\count179
-\l_fp_div_offset_int=\count180
-\l_fp_exp_integer_int=\count181
-\l_fp_exp_decimal_int=\count182
-\l_fp_exp_extended_int=\count183
-\l_fp_exp_exponent_int=\count184
-\l_fp_input_a_sign_int=\count185
-\l_fp_input_a_integer_int=\count186
-\l_fp_input_a_decimal_int=\count187
-\l_fp_input_a_exponent_int=\count188
-\l_fp_input_b_sign_int=\count189
-\l_fp_input_b_integer_int=\count190
-\l_fp_input_b_decimal_int=\count191
-\l_fp_input_b_exponent_int=\count192
-\l_fp_input_a_extended_int=\count193
-\l_fp_input_b_extended_int=\count194
-\l_fp_mul_a_i_int=\count195
-\l_fp_mul_a_ii_int=\count196
-\l_fp_mul_a_iii_int=\count197
-\l_fp_mul_a_iv_int=\count198
-\l_fp_mul_a_v_int=\count199
-\l_fp_mul_a_vi_int=\count200
-\l_fp_mul_b_i_int=\count201
-Normal \count register pool exhausted, switching to extended pool.
-\l_fp_mul_b_ii_int=\count277
-\l_fp_mul_b_iii_int=\count278
-\l_fp_mul_b_iv_int=\count279
-\l_fp_mul_b_v_int=\count280
-\l_fp_mul_b_vi_int=\count281
-\l_fp_mul_output_int=\count282
-\l_fp_output_sign_int=\count283
-\l_fp_output_integer_int=\count284
-\l_fp_output_decimal_int=\count285
-\l_fp_output_exponent_int=\count286
-\l_fp_output_extended_int=\count287
-\l_fp_round_position_int=\count288
-\l_fp_round_target_int=\count289
-\l_fp_split_sign_int=\count290
-\l_fp_internal_int=\count291
-\l_fp_trig_octant_int=\count292
-\l_fp_trig_sign_int=\count293
-\l_fp_trig_decimal_int=\count294
-\l_fp_trig_extended_int=\count295
-\l_fp_internal_dim=\dimen190
-\l_fp_internal_skip=\skip62
-) (E:\mikTex\tex\latex\l3kernel\l3box.sty
-Package: l3box 2012/03/04 v3490 L3 Experimental boxes
-\l_tmpb_box=\box53
-\l_box_top_dim=\dimen191
-\l_box_bottom_dim=\dimen192
-\l_box_left_dim=\dimen193
-\l_box_right_dim=\dimen194
-\l_box_top_new_dim=\dimen195
-\l_box_bottom_new_dim=\dimen196
-\l_box_left_new_dim=\dimen197
-\l_box_right_new_dim=\dimen198
-\l_box_internal_box=\box54
-) (E:\mikTex\tex\latex\l3kernel\l3coffins.sty
-Package: l3coffins 2012/03/03 v3482 L3 Experimental coffin code layer
-\l_coffin_internal_box=\box55
-\l_coffin_internal_dim=\dimen199
-\l_coffin_offset_x_dim=\dimen200
-\l_coffin_offset_y_dim=\dimen201
-Normal \dimen register pool exhausted, switching to extended pool.
-\l_coffin_x_dim=\dimen256
-\l_coffin_y_dim=\dimen257
-\l_coffin_x_prime_dim=\dimen258
-\l_coffin_y_prime_dim=\dimen259
-\l_coffin_Depth_dim=\dimen260
-\l_coffin_Height_dim=\dimen261
-\l_coffin_TotalHeight_dim=\dimen262
-\l_coffin_Width_dim=\dimen263
-\c_empty_coffin=\box56
-\l_coffin_aligned_coffin=\box57
-\l_coffin_aligned_internal_coffin=\box58
-\l_coffin_bounding_shift_dim=\dimen264
-\l_coffin_left_corner_dim=\dimen265
-\l_coffin_right_corner_dim=\dimen266
-\l_coffin_bottom_corner_dim=\dimen267
-\l_coffin_top_corner_dim=\dimen268
-\l_coffin_scaled_total_height_dim=\dimen269
-\l_coffin_scaled_width_dim=\dimen270
-\l_coffin_display_coffin=\box59
-\l_coffin_display_coord_coffin=\box60
-\l_coffin_display_pole_coffin=\box61
-\l_coffin_display_offset_dim=\dimen271
-\l_coffin_display_x_dim=\dimen272
-\l_coffin_display_y_dim=\dimen273
-)
-(E:\mikTex\tex\latex\l3kernel\l3color.sty
-Package: l3color 2011/09/07 v2776 L3 Experimental colour support
-)
-(E:\mikTex\tex\latex\l3kernel\l3luatex.sty
-Package: l3luatex 2012/02/09 v3355 L3 Experimental LuaTeX-specific functions
-\g_cctab_allocate_int=\count296
-\g_cctab_stack_int=\count297
-))
-(E:\mikTex\tex\latex\etoolbox\etoolbox.sty
-Package: etoolbox 2011/01/03 v2.1 e-TeX tools for LaTeX
-\etb@tempcnta=\count298
-)
-(E:\mikTex\tex\latex\base\fix-cm.sty
-Package: fix-cm 2006/09/13 v1.1m fixes to LaTeX
- (E:\mikTex\tex\latex\base\ts1enc.def
-File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
-))
-(E:\mikTex\tex\latex\ctex\engine\ctex-cjk-engine.def
-(E:\mikTex\tex\latex\cjk\CJK.sty
-Package: CJK 2012/05/07 4.8.3
- (E:\mikTex\tex\latex\cjk\mule\MULEenc.sty
-Package: MULEenc 2012/05/07 4.8.3
-)
-(E:\mikTex\tex\latex\cjk\CJK.enc
-File: CJK.enc 2012/05/07 4.8.3
-)
-LaTeX Info: Redefining \selectfont on input line 755.
-\CJK@indent=\box62
-) (E:\mikTex\tex\latex\cjkpunct\CJKpunct.sty
-Package: CJKpunct 2009/05/06 4.8.2
-\CJKpunct@cnta=\count299
-\CJKpunct@cntb=\count300
-\CJKpunct@cntc=\count301
-\CJKpunct@cntd=\count302
-\CJKpunct@cnte=\count303
-)
-(E:\mikTex\tex\latex\ctex\engine\ctex-cjk-common.def
-\ccwd=\dimen274
-)
-(E:\mikTex\tex\latex\ctex\fontset\ctex-cjk-winfonts.def
-(E:\mikTex\tex\generic\zhmetrics\zhwinfonts.tex
-(E:\mikTex\tex\generic\oberdiek\ifpdf.sty
-Package ifpdf Info: The package is already loaded, stopped on input line 64.
-){C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}{UGBK.sfd}{Unicode.sfd})))
-\CTEX@q=\count304
-\CTEX@r=\count305
-))
-(E:\mikTex\tex\latex\ctex\def\ctex-gbk.def)
-(E:\mikTex\tex\latex\ctex\cfg\ctex.cfg)
 (E:\mikTex\tex\latex\pgf\frontendlayer\tikz.sty
 (E:\mikTex\tex\latex\pgf\basiclayer\pgf.sty
 Package: pgf 2008/01/15 v2.10 (rcs-revision 1.12)
 
 (E:\mikTex\tex\generic\pgf\modules\pgfmoduleshapes.code.tex
 File: pgfmoduleshapes.code.tex 2010/09/09  (rcs-revision 1.13)
-\pgfnodeparttextbox=\box63
+\pgfnodeparttextbox=\box53
 )
 (E:\mikTex\tex\generic\pgf\modules\pgfmoduleplot.code.tex
 File: pgfmoduleplot.code.tex 2010/10/22  (rcs-revision 1.8)
 )
 (E:\mikTex\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
 Package: pgfcomp-version-0-65 2007/07/03 v2.10 (rcs-revision 1.7)
-\pgf@nodesepstart=\dimen275
-\pgf@nodesepend=\dimen276
+\pgf@nodesepstart=\dimen185
+\pgf@nodesepend=\dimen186
 )
 (E:\mikTex\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
 Package: pgfcomp-version-1-18 2007/07/23 v2.10 (rcs-revision 1.1)
@@ -934,8 +706,8 @@ Package: pgfcomp-version-1-18 2007/07/23 v2.10 (rcs-revision 1.1)
 (E:\mikTex\tex\generic\pgf\utilities\pgfkeys.code.tex))
 (E:\mikTex\tex\generic\pgf\utilities\pgffor.code.tex
 Package: pgffor 2010/03/23 v2.10 (rcs-revision 1.18)
-\pgffor@iter=\dimen277
-\pgffor@skip=\dimen278
+\pgffor@iter=\dimen187
+\pgffor@skip=\dimen188
 \pgffor@stack=\toks40
 \pgffor@toks=\toks41
 ))
@@ -944,116 +716,94 @@ Package: tikz 2010/10/13 v2.10 (rcs-revision 1.76)
 
 (E:\mikTex\tex\generic\pgf\libraries\pgflibraryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2010/05/31 v2.10 (rcs-revision 1.15)
-\pgf@plot@mark@count=\count306
-\pgfplotmarksize=\dimen279
+\pgf@plot@mark@count=\count153
+\pgfplotmarksize=\dimen189
 )
-\tikz@lastx=\dimen280
-\tikz@lasty=\dimen281
-\tikz@lastxsaved=\dimen282
-\tikz@lastysaved=\dimen283
-\tikzleveldistance=\dimen284
-\tikzsiblingdistance=\dimen285
-\tikz@figbox=\box64
-\tikz@tempbox=\box65
-\tikztreelevel=\count307
-\tikznumberofchildren=\count308
-\tikznumberofcurrentchild=\count309
-\tikz@fig@count=\count310
+\tikz@lastx=\dimen190
+\tikz@lasty=\dimen191
+\tikz@lastxsaved=\dimen192
+\tikz@lastysaved=\dimen193
+\tikzleveldistance=\dimen194
+\tikzsiblingdistance=\dimen195
+\tikz@figbox=\box54
+\tikz@tempbox=\box55
+\tikztreelevel=\count154
+\tikznumberofchildren=\count155
+\tikznumberofcurrentchild=\count156
+\tikz@fig@count=\count157
 
 (E:\mikTex\tex\generic\pgf\modules\pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2010/08/24  (rcs-revision 1.4)
-\pgfmatrixcurrentrow=\count311
-\pgfmatrixcurrentcolumn=\count312
-\pgf@matrix@numberofcolumns=\count313
+\pgfmatrixcurrentrow=\count158
+\pgfmatrixcurrentcolumn=\count159
+\pgf@matrix@numberofcolumns=\count160
 )
-\tikz@expandcount=\count314
+\tikz@expandcount=\count161
 
 (E:\mikTex\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths.code
 .tex
 File: tikzlibrarytopaths.code.tex 2008/06/17 v2.10 (rcs-revision 1.2)
-))) (C:\Users\Pranab\Desktop\seminar\settings/colour.tex)
+))) (E:\mikTex\tex\latex\psnfss\mathptmx.sty
+Package: mathptmx 2005/04/12 PSNFSS-v9.2a Times w/ Math, improved (SPQR, WaS) 
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+\symbold=\mathgroup6
+\symitalic=\mathgroup7
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
+LaTeX Info: Redefining \hbar on input line 50.
+)
+(E:\mikTex\tex\latex\psnfss\helvet.sty
+Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS) 
+) (E:\mikTex\tex\latex\psnfss\courier.sty
+Package: courier 2005/04/12 PSNFSS-v9.2a (WaS) 
+) (C:\Users\Pranab\Desktop\seminar\settings/colour.tex)
 (C:\Users\Pranab\Desktop\seminar\main.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 37.
 
+(E:\mikTex\tex\latex\psnfss\ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -1062,14 +812,14 @@ LaTeX Font Info:    ... okay on input line 32.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: includehead includefoot 
-* h-part:(L,W,R)=(59.22636pt, 290.74263pt, 14.22636pt)
+* h-part:(L,W,R)=(71.13187pt, 278.83713pt, 14.22636pt)
 * v-part:(T,H,B)=(0.0pt, 273.14662pt, 0.0pt)
 * \paperwidth=364.19536pt
 * \paperheight=273.14662pt
-* \textwidth=290.74263pt
+* \textwidth=278.83713pt
 * \textheight=244.6939pt
-* \oddsidemargin=-13.04362pt
-* \evensidemargin=-13.04362pt
+* \oddsidemargin=-1.13812pt
+* \evensidemargin=-1.13812pt
 * \topmargin=-72.26999pt
 * \headheight=14.22636pt
 * \headsep=0.0pt
@@ -1090,20 +840,20 @@ LaTeX Font Info:    ... okay on input line 32.
 
 (E:\mikTex\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count315
-\scratchdimen=\dimen286
-\scratchbox=\box66
-\nofMPsegments=\count316
-\nofMParguments=\count317
+\scratchcounter=\count162
+\scratchdimen=\dimen196
+\scratchbox=\box56
+\nofMPsegments=\count163
+\nofMParguments=\count164
 \everyMPshowfont=\toks42
-\MPscratchCnt=\count318
-\MPscratchDim=\dimen287
-\MPnumerator=\count319
-\makeMPintoPDFobject=\count320
+\MPscratchCnt=\count165
+\MPscratchDim=\dimen197
+\MPnumerator=\count166
+\makeMPintoPDFobject=\count167
 \everyMPtoPDFconversion=\toks43
 ) ABD: EveryShipout initializing macros
-\AtBeginShipoutBox=\box67
-Package hyperref Info: Link coloring OFF on input line 32.
+\AtBeginShipoutBox=\box57
+Package hyperref Info: Link coloring OFF on input line 37.
 
 (E:\mikTex\tex\latex\hyperref\nameref.sty
 Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
@@ -1111,64 +861,53 @@ Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
 (E:\mikTex\tex\generic\oberdiek\gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count321
+\c@section@level=\count168
 )
-LaTeX Info: Redefining \ref on input line 32.
-LaTeX Info: Redefining \pageref on input line 32.
-LaTeX Info: Redefining \nameref on input line 32.
+LaTeX Info: Redefining \ref on input line 37.
+LaTeX Info: Redefining \pageref on input line 37.
+LaTeX Info: Redefining \nameref on input line 37.
 
 (C:\Users\Pranab\Desktop\seminar\main.out)
 (C:\Users\Pranab\Desktop\seminar\main.out)
 \@outlinefile=\write5
-LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 32.
-LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 32.
-\symnumbers=\mathgroup6
-\sympureletters=\mathgroup7
+\symnumbers=\mathgroup8
+\sympureletters=\mathgroup9
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 32.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 32.
+(Font)                  OT1/ztmcm/m/n --> OT1/ptm/m/n on input line 37.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 37.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 32.
+(Font)                  OT1/ptm/bx/n --> OT1/ptm/bx/n on input line 37.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 32.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 32.
+(Font)                  OT1/ptm/bx/n --> OT1/ptm/bx/n on input line 37.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 37.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 32.
+(Font)                  OT1/cmss/m/n --> OT1/phv/m/n on input line 37.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 32.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 32.
+(Font)                  OT1/cmss/bx/n --> OT1/phv/m/n on input line 37.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 37.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 32.
+(Font)                  OT1/ptm/m/it --> OT1/ptm/m/it on input line 37.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 32.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 32.
+(Font)                  OT1/ptm/m/it --> OT1/ptm/m/it on input line 37.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 37.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 32.
+(Font)                  OT1/cmtt/m/n --> OT1/pcr/m/n on input line 37.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 32.
+(Font)                  OT1/cmtt/m/n --> OT1/pcr/m/n on input line 37.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 32.
+(Font)                  OT1/ptm/m/n --> OT1/ptm/bx/n on input line 37.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 32.
+(Font)                  OT1/ptm/m/it --> OT1/ptm/bx/it on input line 37.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 32.
+(Font)                  OT1/ztmcm/m/n --> OT1/ptm/bx/n on input line 37.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 32.
+(Font)                  OT1/ptm/bx/n --> OT1/ptm/bx/n on input line 37.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 32.
+(Font)                  OT1/phv/m/n --> OT1/phv/bx/n on input line 37.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 32.
+(Font)                  OT1/ptm/m/it --> OT1/ptm/bx/it on input line 37.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 32.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 32.
-LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
-(Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 3
-2.
-LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/bx/it --> OT1/mathkerncmss/m/sl on input line 
-32.
+(Font)                  OT1/pcr/m/n --> OT1/pcr/bx/n on input line 37.
 
 (E:\mikTex\tex\latex\beamer\base\translator\dicts\translator-basic-dictionary\t
 ranslator-basic-dictionary-English.dict
@@ -1194,33 +933,25 @@ Dictionary: translator-numbers-dictionary, Language: English
 \translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-LaTeX Info: Redefining \includegraphics on input line 32.
+LaTeX Info: Redefining \includegraphics on input line 37.
 
-(E:\mikTex\tex\latex\cjk\standard.bdg
-File: standard.bdg 2012/05/07 4.8.3
-) (E:\mikTex\tex\latex\cjk\extended.enc
-File: extended.enc 2012/05/07 4.8.3
-)
-(E:\mikTex\tex\latex\cjk\extended.chr
-File: extended.chr 2012/05/07 4.8.3
-)
 (C:\Users\Pranab\Desktop\seminar\main.nav)
 
 Package hyperref Warning: Option `pdfauthor' has already been used,
-(hyperref)                setting the option has no effect on input line 34.
+(hyperref)                setting the option has no effect on input line 39.
 
 <images/ml_bg.png, id=84, 240.9pt x 180.675pt>
 File: images/ml_bg.png Graphic file (type png)
  <use images/ml_bg.png>
-Package pdftex.def Info: images/ml_bg.png used on input line 47.
+Package pdftex.def Info: images/ml_bg.png used on input line 52.
 (pdftex.def)             Requested size: 364.23094pt x 273.1732pt.
 
-Overfull \hbox (13.11447pt too wide) in paragraph at lines 47--47
+Overfull \hbox (24.69778pt too wide) in paragraph at lines 52--52
 []|  []  
  []
 
 
-Overfull \vbox (5.71704pt too high) detected at line 47
+Overfull \vbox (5.71704pt too high) detected at line 52
  []
 
 [1
@@ -1229,48 +960,34 @@ Overfull \vbox (5.71704pt too high) detected at line 47
 <images/bg.png, id=92, 240.9pt x 180.675pt>
 File: images/bg.png Graphic file (type png)
  <use images/bg.png>
-Package pdftex.def Info: images/bg.png used on input line 59.
+Package pdftex.def Info: images/bg.png used on input line 65.
 (pdftex.def)             Requested size: 364.23094pt x 273.1732pt.
- [2
+ [2{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
 
  <C:/Users/Pranab/Desktop/seminar/images/bg.png>] (C:\Users\Pranab\Desktop\semi
 nar\main.toc)
 File: images/bg.png Graphic file (type png)
-<use images/bg.png>
-Package pdftex.def Info: images/bg.png used on input line 64.
+ <use images/bg.png>
+Package pdftex.def Info: images/bg.png used on input line 70.
 (pdftex.def)             Requested size: 364.23094pt x 273.1732pt.
- [3
+
+[3
 
 ] [4
 
 ]
 File: images/bg.png Graphic file (type png)
  <use images/bg.png>
-Package pdftex.def Info: images/bg.png used on input line 85.
+Package pdftex.def Info: images/bg.png used on input line 91.
 (pdftex.def)             Requested size: 364.23094pt x 273.1732pt.
  [5
 
 ]
 File: images/bg.png Graphic file (type png)
  <use images/bg.png>
-Package pdftex.def Info: images/bg.png used on input line 88.
-(pdftex.def)             Requested size: 364.23094pt x 273.1732pt.
-
-[6
-
-]
-File: images/bg.png Graphic file (type png)
- <use images/bg.png>
-Package pdftex.def Info: images/bg.png used on input line 91.
-(pdftex.def)             Requested size: 364.23094pt x 273.1732pt.
- [7
-
-]
-File: images/bg.png Graphic file (type png)
- <use images/bg.png>
 Package pdftex.def Info: images/bg.png used on input line 94.
 (pdftex.def)             Requested size: 364.23094pt x 273.1732pt.
- [8
+ [6
 
 ]
 File: images/bg.png Graphic file (type png)
@@ -1278,21 +995,21 @@ File: images/bg.png Graphic file (type png)
 Package pdftex.def Info: images/bg.png used on input line 97.
 (pdftex.def)             Requested size: 364.23094pt x 273.1732pt.
 
-[9
+[7
 
 ]
 File: images/bg.png Graphic file (type png)
  <use images/bg.png>
-Package pdftex.def Info: images/bg.png used on input line 101.
+Package pdftex.def Info: images/bg.png used on input line 100.
 (pdftex.def)             Requested size: 364.23094pt x 273.1732pt.
- [10
+ [8
 
 ]
 File: images/bg.png Graphic file (type png)
  <use images/bg.png>
-Package pdftex.def Info: images/bg.png used on input line 104.
+Package pdftex.def Info: images/bg.png used on input line 103.
 (pdftex.def)             Requested size: 364.23094pt x 273.1732pt.
- [11
+ [9
 
 ]
 File: images/bg.png Graphic file (type png)
@@ -1300,65 +1017,65 @@ File: images/bg.png Graphic file (type png)
 Package pdftex.def Info: images/bg.png used on input line 107.
 (pdftex.def)             Requested size: 364.23094pt x 273.1732pt.
 
-[12
+[10
 
 ]
 File: images/bg.png Graphic file (type png)
  <use images/bg.png>
 Package pdftex.def Info: images/bg.png used on input line 110.
 (pdftex.def)             Requested size: 364.23094pt x 273.1732pt.
- [13
+ [11
 
 ]
 File: images/bg.png Graphic file (type png)
  <use images/bg.png>
-Package pdftex.def Info: images/bg.png used on input line 114.
+Package pdftex.def Info: images/bg.png used on input line 113.
 (pdftex.def)             Requested size: 364.23094pt x 273.1732pt.
- [14
+ [12
 
 ]
 File: images/bg.png Graphic file (type png)
  <use images/bg.png>
-Package pdftex.def Info: images/bg.png used on input line 117.
+Package pdftex.def Info: images/bg.png used on input line 116.
 (pdftex.def)             Requested size: 364.23094pt x 273.1732pt.
 
-[15
+[13
 
 ]
 File: images/bg.png Graphic file (type png)
  <use images/bg.png>
 Package pdftex.def Info: images/bg.png used on input line 120.
 (pdftex.def)             Requested size: 364.23094pt x 273.1732pt.
- [16
+ [14
 
 ]
 File: images/bg.png Graphic file (type png)
  <use images/bg.png>
-Package pdftex.def Info: images/bg.png used on input line 125.
+Package pdftex.def Info: images/bg.png used on input line 123.
 (pdftex.def)             Requested size: 364.23094pt x 273.1732pt.
- [17
+ [15
 
 ]
 File: images/bg.png Graphic file (type png)
  <use images/bg.png>
-Package pdftex.def Info: images/bg.png used on input line 128.
+Package pdftex.def Info: images/bg.png used on input line 126.
 (pdftex.def)             Requested size: 364.23094pt x 273.1732pt.
 
-[18
+[16
 
 ]
 File: images/bg.png Graphic file (type png)
  <use images/bg.png>
 Package pdftex.def Info: images/bg.png used on input line 131.
 (pdftex.def)             Requested size: 364.23094pt x 273.1732pt.
- [19
+ [17
 
 ]
 File: images/bg.png Graphic file (type png)
  <use images/bg.png>
 Package pdftex.def Info: images/bg.png used on input line 134.
 (pdftex.def)             Requested size: 364.23094pt x 273.1732pt.
- [20
+ [18
 
 ]
 File: images/bg.png Graphic file (type png)
@@ -1366,19 +1083,34 @@ File: images/bg.png Graphic file (type png)
 Package pdftex.def Info: images/bg.png used on input line 137.
 (pdftex.def)             Requested size: 364.23094pt x 273.1732pt.
 
-[21
+[19
+
+]
+File: images/bg.png Graphic file (type png)
+ <use images/bg.png>
+Package pdftex.def Info: images/bg.png used on input line 140.
+(pdftex.def)             Requested size: 364.23094pt x 273.1732pt.
+ [20
 
 ]
 File: images/bg.png Graphic file (type png)
  <use images/bg.png>
 Package pdftex.def Info: images/bg.png used on input line 143.
 (pdftex.def)             Requested size: 364.23094pt x 273.1732pt.
- [22
+ [21
 
 ]
 File: images/bg.png Graphic file (type png)
  <use images/bg.png>
-Package pdftex.def Info: images/bg.png used on input line 145.
+Package pdftex.def Info: images/bg.png used on input line 149.
+(pdftex.def)             Requested size: 364.23094pt x 273.1732pt.
+
+[22
+
+]
+File: images/bg.png Graphic file (type png)
+ <use images/bg.png>
+Package pdftex.def Info: images/bg.png used on input line 151.
 (pdftex.def)             Requested size: 364.23094pt x 273.1732pt.
  [23
 
@@ -1390,31 +1122,29 @@ Package pdftex.def Info: images/bg.png used on input line 145.
 \tf@nav=\write6
 \tf@toc=\write7
 \tf@snm=\write8
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 163.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 163.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 169.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 169.
 
 (C:\Users\Pranab\Desktop\seminar\main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 163.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 163.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 169.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 169.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 7766EC3C25C8C85006AD9778844344CF;1039.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 163.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 169.
  ) 
 Here is how much of TeX's memory you used:
- 24378 strings out of 494045
- 440781 string characters out of 3155639
- 514862 words of memory out of 3000000
- 27049 multiletter control sequences out of 15000+200000
- 6071 words of font info for 22 fonts, out of 3000000 for 9000
+ 17818 strings out of 494045
+ 334487 string characters out of 3155639
+ 409602 words of memory out of 3000000
+ 20615 multiletter control sequences out of 15000+200000
+ 17439 words of font info for 33 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 49i,16n,54p,983b,1433s stack positions out of 5000i,500n,10000p,200000b,50000s
-<E:/mikTex/fonts/type1/public/amsfonts/cm/cmss10.pfb><E:/mikTex/fonts/type1/p
-ublic/amsfonts/cm/cmss12.pfb><E:/mikTex/fonts/type1/public/amsfonts/cm/cmss17.p
-fb><E:/mikTex/fonts/type1/public/amsfonts/cm/cmss8.pfb><E:/mikTex/fonts/type1/p
-ublic/amsfonts/cm/cmss9.pfb>
-Output written on main.pdf (25 pages, 539227 bytes).
+ 49i,16n,54p,477b,1057s stack positions out of 5000i,500n,10000p,200000b,50000s
+{E:/mikTex/fonts/enc/dvips/fontname/8r.enc}<E:/mikTex/fonts/type1/urw/times/u
+tmr8a.pfb>
+Output written on main.pdf (25 pages, 501662 bytes).
 PDF statistics:
- 442 PDF objects out of 1000 (max. 8388607)
+ 427 PDF objects out of 1000 (max. 8388607)
  65 named destinations out of 1000 (max. 500000)
  197 words of extra memory for PDF output out of 10000 (max. 10000000)
 
