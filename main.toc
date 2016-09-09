@@ -1,8 +1,8 @@
 \beamer@endinputifotherversion {3.36pt}
 \beamer@sectionintoc {1}{Introduction}{5}{0}{1}
-\beamer@subsectionintoc {1}{1}{Getting to know}{6}{0}{1}
-\beamer@subsectionintoc {1}{2}{Benefits}{7}{0}{1}
-\beamer@subsectionintoc {1}{3}{Case Studies}{8}{0}{1}
+\beamer@subsectionintoc {1}{1}{Case Studies}{6}{0}{1}
+\beamer@subsectionintoc {1}{2}{Formal Defintion}{7}{0}{1}
+\beamer@subsectionintoc {1}{3}{Benefits}{8}{0}{1}
 \beamer@subsectionintoc {1}{4}{Applications}{9}{0}{1}
 \beamer@sectionintoc {2}{Regression}{10}{0}{2}
 \beamer@subsectionintoc {2}{1}{Usages}{11}{0}{2}
