@@ -1,15 +1,18 @@
 %% document class
 \documentclass[10pt]{beamer}
 %%theme
-\usetheme[hideothersubsections]{Berkeley}
+\usetheme[hideothersubsections,width=2cm]{Berkeley}
 %% page settings
-%\usepackage[space,noindent]{ctex}
 \usepackage{xcolor}
 \usenavigationsymbolstemplate{}
+\usefonttheme{serif}
 
 %% packages
 \usepackage{tikz}
 \usepackage{geometry}
+\usepackage{mathptmx}
+\usepackage[scaled=0.9]{helvet}
+\usepackage{courier}
 
 %%color settings
 \input{settings/colour}
@@ -20,6 +23,7 @@
 \setbeamercolor*{sidebar left}{fg=blue_light,bg=grey_dark} % left part with links
 \setbeamercolor*{palette sidebar primary}{fg=blue_light}
 \setbeamercolor*{palette sidebar secondary}{fg=blue_light}
+\setbeamerfont{section in sidebar}{size=\scriptsize}
 
 %% new commands
 %\input{settings/macros}
@@ -51,9 +55,11 @@
 	\usebackgroundtemplate{%
 		\tikz\node[opacity=0.3] {\includegraphics[height=\paperheight,width=\paperwidth]{images/bg-vec}}
 		;}
-	\begin{frame}[t]{The A Team}
-		\Huge{Presented By:\\}
-		\large{~\\Suvojit Manna\\Pronab Mukherjee\\Barun Gupta\\Somnath Rakshit\\}
+	\begin{frame}[c]{The A Team}
+		\begin{center}
+			\Huge{Presented By:\\}
+			\large{~\\Suvojit Manna\\Pronab Mukherjee\\Barun Gupta\\Somnath Rakshit\\}
+		\end{center}
 	\end{frame}
 	%% contents
 	\begin{frame}{Contents in Brief}
@@ -147,12 +153,12 @@
 	\setbeamercolor{background canvas}{bg=blue_dark}
 	\setbeamercolor{normal text}{fg=blue_light}
 	\begin{frame}[plain,c]
-		\hspace*{10 mm}
+		\hspace*{6 mm}
 		\vspace*{-18 mm}
 		\textcolor{blue_light}{\Large{Now that was very interesting!}}
 	\end{frame}
 	\begin{frame}[plain,c]
-		\hspace*{30 mm}
+		\hspace*{27 mm}
 		\vspace*{-20 mm}
 		\textcolor{blue_light}{\Large{The End}}
 	\end{frame}
