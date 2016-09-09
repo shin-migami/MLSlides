@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.9.4)  9 SEP 2016 22:42
-=======
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.9.4)  7 SEP 2016 21:10
->>>>>>> f9d7ae72c16859455fb669afeae226e3c570ac4b
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.9.4)  9 SEP 2016 23:25
 entering extended mode
 **./main.tex
 (main.tex
@@ -691,7 +687,6 @@ Package: beamercolorthemewhale 2010/06/17  (rcs-revision d02a7cf4d8ae)
 (H:\MiKTeX\tex\latex\beamer\base\themes\color\beamercolorthemeorchid.sty
 Package: beamercolorthemeorchid 2010/06/17  (rcs-revision d02a7cf4d8ae)
 ))
-<<<<<<< HEAD
 (H:\MiKTeX\tex\latex\beamer\base\themes\font\beamerfontthemeserif.sty
 Package: beamerfontthemeserif 2010/06/17  (rcs-revision d02a7cf4d8ae)
 )
@@ -746,85 +741,23 @@ File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
 \tikz@figbox@bg=\box55
 \tikz@tempbox=\box56
 \tikz@tempbox@bg=\box57
-=======
-(E:\mikTex\tex\latex\beamer\base\themes\font\beamerfontthemeserif.sty
-Package: beamerfontthemeserif 2010/06/17  (rcs-revision d02a7cf4d8ae)
-)
-(E:\mikTex\tex\latex\pgf\frontendlayer\tikz.sty
-(E:\mikTex\tex\latex\pgf\basiclayer\pgf.sty
-Package: pgf 2008/01/15 v2.10 (rcs-revision 1.12)
-
-(E:\mikTex\tex\generic\pgf\modules\pgfmoduleshapes.code.tex
-File: pgfmoduleshapes.code.tex 2010/09/09  (rcs-revision 1.13)
-\pgfnodeparttextbox=\box53
-)
-(E:\mikTex\tex\generic\pgf\modules\pgfmoduleplot.code.tex
-File: pgfmoduleplot.code.tex 2010/10/22  (rcs-revision 1.8)
-)
-(E:\mikTex\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
-Package: pgfcomp-version-0-65 2007/07/03 v2.10 (rcs-revision 1.7)
-\pgf@nodesepstart=\dimen185
-\pgf@nodesepend=\dimen186
-)
-(E:\mikTex\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
-Package: pgfcomp-version-1-18 2007/07/23 v2.10 (rcs-revision 1.1)
-))
-(E:\mikTex\tex\latex\pgf\utilities\pgffor.sty
-(E:\mikTex\tex\latex\pgf\utilities\pgfkeys.sty
-(E:\mikTex\tex\generic\pgf\utilities\pgfkeys.code.tex))
-(E:\mikTex\tex\generic\pgf\utilities\pgffor.code.tex
-Package: pgffor 2010/03/23 v2.10 (rcs-revision 1.18)
-\pgffor@iter=\dimen187
-\pgffor@skip=\dimen188
-\pgffor@stack=\toks40
-\pgffor@toks=\toks41
-))
-(E:\mikTex\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
-Package: tikz 2010/10/13 v2.10 (rcs-revision 1.76)
-
-(E:\mikTex\tex\generic\pgf\libraries\pgflibraryplothandlers.code.tex
-File: pgflibraryplothandlers.code.tex 2010/05/31 v2.10 (rcs-revision 1.15)
-\pgf@plot@mark@count=\count153
-\pgfplotmarksize=\dimen189
-)
-\tikz@lastx=\dimen190
-\tikz@lasty=\dimen191
-\tikz@lastxsaved=\dimen192
-\tikz@lastysaved=\dimen193
-\tikzleveldistance=\dimen194
-\tikzsiblingdistance=\dimen195
-\tikz@figbox=\box54
-\tikz@tempbox=\box55
->>>>>>> f9d7ae72c16859455fb669afeae226e3c570ac4b
 \tikztreelevel=\count154
 \tikznumberofchildren=\count155
 \tikznumberofcurrentchild=\count156
 \tikz@fig@count=\count157
 
-<<<<<<< HEAD
 (H:\MiKTeX\tex\generic\pgf\modules\pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
-=======
-(E:\mikTex\tex\generic\pgf\modules\pgfmodulematrix.code.tex
-File: pgfmodulematrix.code.tex 2010/08/24  (rcs-revision 1.4)
->>>>>>> f9d7ae72c16859455fb669afeae226e3c570ac4b
 \pgfmatrixcurrentrow=\count158
 \pgfmatrixcurrentcolumn=\count159
 \pgf@matrix@numberofcolumns=\count160
 )
 \tikz@expandcount=\count161
 
-<<<<<<< HEAD
 (H:\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths.code
 .tex
 File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
 ))) (H:\MiKTeX\tex\latex\psnfss\mathptmx.sty
-=======
-(E:\mikTex\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths.code
-.tex
-File: tikzlibrarytopaths.code.tex 2008/06/17 v2.10 (rcs-revision 1.2)
-))) (E:\mikTex\tex\latex\psnfss\mathptmx.sty
->>>>>>> f9d7ae72c16859455fb669afeae226e3c570ac4b
 Package: mathptmx 2005/04/12 PSNFSS-v9.2a Times w/ Math, improved (SPQR, WaS) 
 LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
@@ -860,7 +793,6 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
 LaTeX Info: Redefining \hbar on input line 50.
 )
-<<<<<<< HEAD
 (H:\MiKTeX\tex\latex\psnfss\helvet.sty
 Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS) 
 ) (H:\MiKTeX\tex\latex\psnfss\courier.sty
@@ -884,31 +816,6 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 35.
 LaTeX Font Info:    ... okay on input line 35.
 LaTeX Font Info:    Try loading font information for OT1+ptm on input line 35.
  (H:\MiKTeX\tex\latex\psnfss\ot1ptm.fd
-=======
-(E:\mikTex\tex\latex\psnfss\helvet.sty
-Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS) 
-) (E:\mikTex\tex\latex\psnfss\courier.sty
-Package: courier 2005/04/12 PSNFSS-v9.2a (WaS) 
-) (C:\Users\Pranab\Desktop\seminar\settings/colour.tex)
-(C:\Users\Pranab\Desktop\seminar\main.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 37.
-
-(E:\mikTex\tex\latex\psnfss\ot1ptm.fd
->>>>>>> f9d7ae72c16859455fb669afeae226e3c570ac4b
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 *geometry* driver: auto-detecting
@@ -948,7 +855,6 @@ File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 (H:\MiKTeX\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count162
-<<<<<<< HEAD
 \scratchdimen=\dimen257
 \scratchbox=\box58
 \nofMPsegments=\count163
@@ -1027,75 +933,6 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/ptm/m/it --> OT1/ptm/bx/it on input line 35.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/pcr/m/n --> OT1/pcr/bx/n on input line 35.
-=======
-\scratchdimen=\dimen196
-\scratchbox=\box56
-\nofMPsegments=\count163
-\nofMParguments=\count164
-\everyMPshowfont=\toks42
-\MPscratchCnt=\count165
-\MPscratchDim=\dimen197
-\MPnumerator=\count166
-\makeMPintoPDFobject=\count167
-\everyMPtoPDFconversion=\toks43
-) ABD: EveryShipout initializing macros
-\AtBeginShipoutBox=\box57
-Package hyperref Info: Link coloring OFF on input line 37.
-
-(E:\mikTex\tex\latex\hyperref\nameref.sty
-Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
-
-(E:\mikTex\tex\generic\oberdiek\gettitlestring.sty
-Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
-)
-\c@section@level=\count168
-)
-LaTeX Info: Redefining \ref on input line 37.
-LaTeX Info: Redefining \pageref on input line 37.
-LaTeX Info: Redefining \nameref on input line 37.
-
-(C:\Users\Pranab\Desktop\seminar\main.out)
-(C:\Users\Pranab\Desktop\seminar\main.out)
-\@outlinefile=\write5
-\symnumbers=\mathgroup8
-\sympureletters=\mathgroup9
-LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/ztmcm/m/n --> OT1/ptm/m/n on input line 37.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 37.
-LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/ptm/bx/n --> OT1/ptm/bx/n on input line 37.
-LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/ptm/bx/n --> OT1/ptm/bx/n on input line 37.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 37.
-LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/phv/m/n on input line 37.
-LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/phv/m/n on input line 37.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 37.
-LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/ptm/m/it --> OT1/ptm/m/it on input line 37.
-LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/ptm/m/it --> OT1/ptm/m/it on input line 37.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 37.
-LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/pcr/m/n on input line 37.
-LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/pcr/m/n on input line 37.
-LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/ptm/m/n --> OT1/ptm/bx/n on input line 37.
-LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/ptm/m/it --> OT1/ptm/bx/it on input line 37.
-LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/ztmcm/m/n --> OT1/ptm/bx/n on input line 37.
-LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/ptm/bx/n --> OT1/ptm/bx/n on input line 37.
-LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/phv/m/n --> OT1/phv/bx/n on input line 37.
-LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/ptm/m/it --> OT1/ptm/bx/it on input line 37.
-LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/pcr/m/n --> OT1/pcr/bx/n on input line 37.
->>>>>>> f9d7ae72c16859455fb669afeae226e3c570ac4b
 
 (H:\MiKTeX\tex\latex\beamer\base\translator\dicts\translator-basic-dictionary\t
 ranslator-basic-dictionary-English.dict
@@ -1121,50 +958,29 @@ Dictionary: translator-numbers-dictionary, Language: English
 \translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-<<<<<<< HEAD
 LaTeX Info: Redefining \includegraphics on input line 35.
  (main.nav)
 
 Package hyperref Warning: Option `pdfauthor' has already been used,
 (hyperref)                setting the option has no effect on input line 37.
-=======
-LaTeX Info: Redefining \includegraphics on input line 37.
 
-(C:\Users\Pranab\Desktop\seminar\main.nav)
-
-Package hyperref Warning: Option `pdfauthor' has already been used,
-(hyperref)                setting the option has no effect on input line 39.
->>>>>>> f9d7ae72c16859455fb669afeae226e3c570ac4b
-
-<images/ml_bg.png, id=20, 240.9pt x 180.675pt>
+<images/ml_bg.png, id=84, 240.9pt x 180.675pt>
 File: images/ml_bg.png Graphic file (type png)
  <use images/ml_bg.png>
-<<<<<<< HEAD
 Package pdftex.def Info: images/ml_bg.png used on input line 50.
 (pdftex.def)             Requested size: 364.23094pt x 273.1732pt.
 
 Overfull \hbox (24.69778pt too wide) in paragraph at lines 50--50
-=======
-Package pdftex.def Info: images/ml_bg.png used on input line 52.
-(pdftex.def)             Requested size: 364.23094pt x 273.1732pt.
-
-Overfull \hbox (24.69778pt too wide) in paragraph at lines 52--52
->>>>>>> f9d7ae72c16859455fb669afeae226e3c570ac4b
 []|  []  
  []
 
 
-<<<<<<< HEAD
 Overfull \vbox (5.71704pt too high) detected at line 50
-=======
-Overfull \vbox (5.71704pt too high) detected at line 52
->>>>>>> f9d7ae72c16859455fb669afeae226e3c570ac4b
  []
 
 [1
 
-<<<<<<< HEAD
- <./images/ml_bg.png>] <images/bg-vec.png, id=29, 1003.75pt x 752.8125pt>
+ <./images/ml_bg.png>] <images/bg-vec.png, id=93, 1003.75pt x 752.8125pt>
 File: images/bg-vec.png Graphic file (type png)
 
 <use images/bg-vec.png>
@@ -1182,84 +998,31 @@ Package pdftex.def Info: images/bg-vec.png used on input line 68.
 ] [4
 
 ]
-File: images/bg-vec.png Graphic file (type png)
+<images/classif-ex.png, id=133, 1806.75pt x 586.19pt>
+File: images/classif-ex.png Graphic file (type png)
 
-<use images/bg-vec.png>
-Package pdftex.def Info: images/bg-vec.png used on input line 95.
+<use images/classif-ex.png>
+Package pdftex.def Info: images/classif-ex.png used on input line 100.
+(pdftex.def)             Requested size: 278.83034pt x 85.35762pt.
+File: images/bg-vec.png Graphic file (type png)
+ <use images/bg-vec.png>
+Package pdftex.def Info: images/bg-vec.png used on input line 100.
 (pdftex.def)             Requested size: 364.1985pt x 273.14886pt.
  [5
 
-]
+ <./images/classif-ex.png>]
 File: images/bg-vec.png Graphic file (type png)
  <use images/bg-vec.png>
-Package pdftex.def Info: images/bg-vec.png used on input line 98.
+Package pdftex.def Info: images/bg-vec.png used on input line 103.
 (pdftex.def)             Requested size: 364.1985pt x 273.14886pt.
  [6
-
-]
-File: images/bg-vec.png Graphic file (type png)
-
-<use images/bg-vec.png>
-Package pdftex.def Info: images/bg-vec.png used on input line 108.
-(pdftex.def)             Requested size: 364.1985pt x 273.14886pt.
- [7
-
-]
-File: images/bg-vec.png Graphic file (type png)
- <use images/bg-vec.png>
-Package pdftex.def Info: images/bg-vec.png used on input line 111.
-(pdftex.def)             Requested size: 364.1985pt x 273.14886pt.
- [8
-=======
- <C:/Users/Pranab/Desktop/seminar/images/ml_bg.png>]
-<images/bg.png, id=92, 240.9pt x 180.675pt>
-File: images/bg.png Graphic file (type png)
- <use images/bg.png>
-Package pdftex.def Info: images/bg.png used on input line 65.
-(pdftex.def)             Requested size: 364.23094pt x 273.1732pt.
- [2{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
-
- <C:/Users/Pranab/Desktop/seminar/images/bg.png>] (C:\Users\Pranab\Desktop\semi
-nar\main.toc)
-File: images/bg.png Graphic file (type png)
- <use images/bg.png>
-Package pdftex.def Info: images/bg.png used on input line 70.
-(pdftex.def)             Requested size: 364.23094pt x 273.1732pt.
-
-[3
-
-] [4
-
-]
-File: images/bg.png Graphic file (type png)
- <use images/bg.png>
-Package pdftex.def Info: images/bg.png used on input line 91.
-(pdftex.def)             Requested size: 364.23094pt x 273.1732pt.
- [5
-
-]
-File: images/bg.png Graphic file (type png)
- <use images/bg.png>
-Package pdftex.def Info: images/bg.png used on input line 94.
-(pdftex.def)             Requested size: 364.23094pt x 273.1732pt.
- [6
->>>>>>> f9d7ae72c16859455fb669afeae226e3c570ac4b
-
-]
-File: images/bg-vec.png Graphic file (type png)
-
-<<<<<<< HEAD
-<use images/bg-vec.png>
-Package pdftex.def Info: images/bg-vec.png used on input line 114.
-(pdftex.def)             Requested size: 364.1985pt x 273.14886pt.
- [9
 
 ]
 File: images/bg-vec.png Graphic file (type png)
  <use images/bg-vec.png>
 Package pdftex.def Info: images/bg-vec.png used on input line 118.
 (pdftex.def)             Requested size: 364.1985pt x 273.14886pt.
- [10
+ [7
 
 ]
 File: images/bg-vec.png Graphic file (type png)
@@ -1267,29 +1030,29 @@ File: images/bg-vec.png Graphic file (type png)
 <use images/bg-vec.png>
 Package pdftex.def Info: images/bg-vec.png used on input line 121.
 (pdftex.def)             Requested size: 364.1985pt x 273.14886pt.
- [11
+ [8
 
 ]
 File: images/bg-vec.png Graphic file (type png)
  <use images/bg-vec.png>
 Package pdftex.def Info: images/bg-vec.png used on input line 124.
 (pdftex.def)             Requested size: 364.1985pt x 273.14886pt.
- [12
+ [9
 
 ]
 File: images/bg-vec.png Graphic file (type png)
 
 <use images/bg-vec.png>
-Package pdftex.def Info: images/bg-vec.png used on input line 127.
+Package pdftex.def Info: images/bg-vec.png used on input line 128.
 (pdftex.def)             Requested size: 364.1985pt x 273.14886pt.
- [13
+ [10
 
 ]
 File: images/bg-vec.png Graphic file (type png)
  <use images/bg-vec.png>
 Package pdftex.def Info: images/bg-vec.png used on input line 131.
 (pdftex.def)             Requested size: 364.1985pt x 273.14886pt.
- [14
+ [11
 
 ]
 File: images/bg-vec.png Graphic file (type png)
@@ -1297,181 +1060,88 @@ File: images/bg-vec.png Graphic file (type png)
 <use images/bg-vec.png>
 Package pdftex.def Info: images/bg-vec.png used on input line 134.
 (pdftex.def)             Requested size: 364.1985pt x 273.14886pt.
- [15
+ [12
 
 ]
 File: images/bg-vec.png Graphic file (type png)
  <use images/bg-vec.png>
 Package pdftex.def Info: images/bg-vec.png used on input line 137.
 (pdftex.def)             Requested size: 364.1985pt x 273.14886pt.
- [16
+ [13
 
 ]
 File: images/bg-vec.png Graphic file (type png)
 
 <use images/bg-vec.png>
-Package pdftex.def Info: images/bg-vec.png used on input line 142.
+Package pdftex.def Info: images/bg-vec.png used on input line 141.
+(pdftex.def)             Requested size: 364.1985pt x 273.14886pt.
+ [14
+
+]
+File: images/bg-vec.png Graphic file (type png)
+ <use images/bg-vec.png>
+Package pdftex.def Info: images/bg-vec.png used on input line 144.
+(pdftex.def)             Requested size: 364.1985pt x 273.14886pt.
+ [15
+
+]
+File: images/bg-vec.png Graphic file (type png)
+
+<use images/bg-vec.png>
+Package pdftex.def Info: images/bg-vec.png used on input line 147.
+(pdftex.def)             Requested size: 364.1985pt x 273.14886pt.
+ [16
+
+]
+File: images/bg-vec.png Graphic file (type png)
+ <use images/bg-vec.png>
+Package pdftex.def Info: images/bg-vec.png used on input line 152.
 (pdftex.def)             Requested size: 364.1985pt x 273.14886pt.
  [17
 
 ]
 File: images/bg-vec.png Graphic file (type png)
- <use images/bg-vec.png>
-Package pdftex.def Info: images/bg-vec.png used on input line 145.
+
+<use images/bg-vec.png>
+Package pdftex.def Info: images/bg-vec.png used on input line 155.
 (pdftex.def)             Requested size: 364.1985pt x 273.14886pt.
  [18
 
 ]
 File: images/bg-vec.png Graphic file (type png)
-
-<use images/bg-vec.png>
-Package pdftex.def Info: images/bg-vec.png used on input line 148.
+ <use images/bg-vec.png>
+Package pdftex.def Info: images/bg-vec.png used on input line 158.
 (pdftex.def)             Requested size: 364.1985pt x 273.14886pt.
  [19
 
 ]
 File: images/bg-vec.png Graphic file (type png)
- <use images/bg-vec.png>
-Package pdftex.def Info: images/bg-vec.png used on input line 151.
+
+<use images/bg-vec.png>
+Package pdftex.def Info: images/bg-vec.png used on input line 161.
 (pdftex.def)             Requested size: 364.1985pt x 273.14886pt.
  [20
-=======
-[7
-
-]
-File: images/bg.png Graphic file (type png)
- <use images/bg.png>
-Package pdftex.def Info: images/bg.png used on input line 100.
-(pdftex.def)             Requested size: 364.23094pt x 273.1732pt.
- [8
-
-]
-File: images/bg.png Graphic file (type png)
- <use images/bg.png>
-Package pdftex.def Info: images/bg.png used on input line 103.
-(pdftex.def)             Requested size: 364.23094pt x 273.1732pt.
- [9
-
-]
-File: images/bg.png Graphic file (type png)
- <use images/bg.png>
-Package pdftex.def Info: images/bg.png used on input line 107.
-(pdftex.def)             Requested size: 364.23094pt x 273.1732pt.
-
-[10
-
-]
-File: images/bg.png Graphic file (type png)
- <use images/bg.png>
-Package pdftex.def Info: images/bg.png used on input line 110.
-(pdftex.def)             Requested size: 364.23094pt x 273.1732pt.
- [11
-
-]
-File: images/bg.png Graphic file (type png)
- <use images/bg.png>
-Package pdftex.def Info: images/bg.png used on input line 113.
-(pdftex.def)             Requested size: 364.23094pt x 273.1732pt.
- [12
-
-]
-File: images/bg.png Graphic file (type png)
- <use images/bg.png>
-Package pdftex.def Info: images/bg.png used on input line 116.
-(pdftex.def)             Requested size: 364.23094pt x 273.1732pt.
-
-[13
-
-]
-File: images/bg.png Graphic file (type png)
- <use images/bg.png>
-Package pdftex.def Info: images/bg.png used on input line 120.
-(pdftex.def)             Requested size: 364.23094pt x 273.1732pt.
- [14
-
-]
-File: images/bg.png Graphic file (type png)
- <use images/bg.png>
-Package pdftex.def Info: images/bg.png used on input line 123.
-(pdftex.def)             Requested size: 364.23094pt x 273.1732pt.
- [15
-
-]
-File: images/bg.png Graphic file (type png)
- <use images/bg.png>
-Package pdftex.def Info: images/bg.png used on input line 126.
-(pdftex.def)             Requested size: 364.23094pt x 273.1732pt.
-
-[16
-
-]
-File: images/bg.png Graphic file (type png)
- <use images/bg.png>
-Package pdftex.def Info: images/bg.png used on input line 131.
-(pdftex.def)             Requested size: 364.23094pt x 273.1732pt.
- [17
-
-]
-File: images/bg.png Graphic file (type png)
- <use images/bg.png>
-Package pdftex.def Info: images/bg.png used on input line 134.
-(pdftex.def)             Requested size: 364.23094pt x 273.1732pt.
- [18
->>>>>>> f9d7ae72c16859455fb669afeae226e3c570ac4b
 
 ]
 File: images/bg-vec.png Graphic file (type png)
-
-<<<<<<< HEAD
-<use images/bg-vec.png>
-Package pdftex.def Info: images/bg-vec.png used on input line 154.
+ <use images/bg-vec.png>
+Package pdftex.def Info: images/bg-vec.png used on input line 164.
 (pdftex.def)             Requested size: 364.1985pt x 273.14886pt.
  [21
 
 ]
 File: images/bg-vec.png Graphic file (type png)
- <use images/bg-vec.png>
-Package pdftex.def Info: images/bg-vec.png used on input line 160.
+
+<use images/bg-vec.png>
+Package pdftex.def Info: images/bg-vec.png used on input line 170.
 (pdftex.def)             Requested size: 364.1985pt x 273.14886pt.
  [22
 
 ]
 File: images/bg-vec.png Graphic file (type png)
-
-<use images/bg-vec.png>
-Package pdftex.def Info: images/bg-vec.png used on input line 169.
+ <use images/bg-vec.png>
+Package pdftex.def Info: images/bg-vec.png used on input line 179.
 (pdftex.def)             Requested size: 364.1985pt x 273.14886pt.
-=======
-[19
-
-]
-File: images/bg.png Graphic file (type png)
- <use images/bg.png>
-Package pdftex.def Info: images/bg.png used on input line 140.
-(pdftex.def)             Requested size: 364.23094pt x 273.1732pt.
- [20
-
-]
-File: images/bg.png Graphic file (type png)
- <use images/bg.png>
-Package pdftex.def Info: images/bg.png used on input line 143.
-(pdftex.def)             Requested size: 364.23094pt x 273.1732pt.
- [21
-
-]
-File: images/bg.png Graphic file (type png)
- <use images/bg.png>
-Package pdftex.def Info: images/bg.png used on input line 149.
-(pdftex.def)             Requested size: 364.23094pt x 273.1732pt.
-
-[22
-
-]
-File: images/bg.png Graphic file (type png)
- <use images/bg.png>
-Package pdftex.def Info: images/bg.png used on input line 151.
-(pdftex.def)             Requested size: 364.23094pt x 273.1732pt.
->>>>>>> f9d7ae72c16859455fb669afeae226e3c570ac4b
  [23
 
 
@@ -1488,65 +1158,30 @@ Package pdftex.def Info: images/bg.png used on input line 151.
 \openout7 = `main.toc'.
 
 \tf@snm=\write8
-<<<<<<< HEAD
 \openout8 = `main.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 187.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 187.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 197.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 197.
  (main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 187.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 187.
-
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: E9DA6E9E8654BBC5043CC53B71FF24BA;110
-(rerunfilecheck)             After:  C2B158E462595CB87819D5FC1D9B7CBD;1040.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 187.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 197.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 197.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: C2B158E462595CB87819D5FC1D9B7CBD;1040.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 197.
  ) 
 Here is how much of TeX's memory you used:
- 19806 strings out of 493334
- 385933 string characters out of 3146991
- 456788 words of memory out of 3000000
- 22806 multiletter control sequences out of 15000+200000
+ 19851 strings out of 493334
+ 386832 string characters out of 3146991
+ 457788 words of memory out of 3000000
+ 22850 multiletter control sequences out of 15000+200000
  17439 words of font info for 33 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,16n,59p,438b,1113s stack positions out of 5000i,500n,10000p,200000b,50000s
 {H:/MiKTeX/fonts/enc/dvips/fontname/8r.enc}<H:/MiKTeX/fonts/type1/urw/times/u
 tmr8a.pfb>
-Output written on main.pdf (25 pages, 342237 bytes).
+Output written on main.pdf (25 pages, 405822 bytes).
 PDF statistics:
- 384 PDF objects out of 1000 (max. 8388607)
+ 434 PDF objects out of 1000 (max. 8388607)
  69 named destinations out of 1000 (max. 500000)
- 69 words of extra memory for PDF output out of 10000 (max. 10000000)
-=======
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 169.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 169.
-
-(C:\Users\Pranab\Desktop\seminar\main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 169.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 169.
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 7766EC3C25C8C85006AD9778844344CF;1039.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 169.
- ) 
-Here is how much of TeX's memory you used:
- 17818 strings out of 494045
- 334487 string characters out of 3155639
- 409602 words of memory out of 3000000
- 20615 multiletter control sequences out of 15000+200000
- 17439 words of font info for 33 fonts, out of 3000000 for 9000
- 715 hyphenation exceptions out of 8191
- 49i,16n,54p,477b,1057s stack positions out of 5000i,500n,10000p,200000b,50000s
-{E:/mikTex/fonts/enc/dvips/fontname/8r.enc}<E:/mikTex/fonts/type1/urw/times/u
-tmr8a.pfb>
-Output written on main.pdf (25 pages, 501662 bytes).
-PDF statistics:
- 427 PDF objects out of 1000 (max. 8388607)
- 65 named destinations out of 1000 (max. 500000)
- 197 words of extra memory for PDF output out of 10000 (max. 10000000)
->>>>>>> f9d7ae72c16859455fb669afeae226e3c570ac4b
+ 202 words of extra memory for PDF output out of 10000 (max. 10000000)
 
