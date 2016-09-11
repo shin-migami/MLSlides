@@ -15,70 +15,72 @@
 \headcommand {\beamer@subsectionentry {0}{1}{1}{6}{Case Studies}}\headcommand {\beamer@subsectionpages {5}{5}}
 \headcommand {\slideentry {1}{1}{1}{6/6}{Case Studies}{0}}
 \headcommand {\beamer@framepages {6}{6}}
-\headcommand {\beamer@subsectionentry {0}{1}{2}{7}{Formal Defintion}}\headcommand {\beamer@subsectionpages {6}{6}}
-\headcommand {\slideentry {1}{2}{1}{7/7}{Formal Defintion}{0}}
+\headcommand {\slideentry {1}{1}{2}{7/7}{Case Studies}{0}}
 \headcommand {\beamer@framepages {7}{7}}
-\headcommand {\beamer@subsectionentry {0}{1}{3}{8}{Benefits}}\headcommand {\beamer@subsectionpages {7}{7}}
-\headcommand {\slideentry {1}{3}{1}{8/8}{Benefits}{0}}
+\headcommand {\beamer@subsectionentry {0}{1}{2}{8}{Formal Defintion}}\headcommand {\beamer@subsectionpages {6}{7}}
+\headcommand {\slideentry {1}{2}{1}{8/8}{Formal Defintion}{0}}
 \headcommand {\beamer@framepages {8}{8}}
-\headcommand {\beamer@subsectionentry {0}{1}{4}{9}{Applications}}\headcommand {\beamer@subsectionpages {8}{8}}
-\headcommand {\slideentry {1}{4}{1}{9/9}{Applications}{0}}
+\headcommand {\beamer@subsectionentry {0}{1}{3}{9}{Benefits}}\headcommand {\beamer@subsectionpages {8}{8}}
+\headcommand {\slideentry {1}{3}{1}{9/9}{Benefits}{0}}
 \headcommand {\beamer@framepages {9}{9}}
-\headcommand {\sectionentry {2}{Regression}{10}{Regression}{0}}
-\headcommand {\beamer@sectionpages {5}{9}}
-\headcommand {\beamer@subsectionpages {9}{9}}
-\headcommand {\slideentry {2}{0}{1}{10/10}{}{0}}
+\headcommand {\beamer@subsectionentry {0}{1}{4}{10}{Applications}}\headcommand {\beamer@subsectionpages {9}{9}}
+\headcommand {\slideentry {1}{4}{1}{10/10}{Applications}{0}}
 \headcommand {\beamer@framepages {10}{10}}
-\headcommand {\beamer@subsectionentry {0}{2}{1}{11}{Usages}}\headcommand {\beamer@subsectionpages {10}{10}}
-\headcommand {\slideentry {2}{1}{1}{11/11}{Usages}{0}}
+\headcommand {\sectionentry {2}{Regression}{11}{Regression}{0}}
+\headcommand {\beamer@sectionpages {5}{10}}
+\headcommand {\beamer@subsectionpages {10}{10}}
+\headcommand {\slideentry {2}{0}{1}{11/11}{}{0}}
 \headcommand {\beamer@framepages {11}{11}}
-\headcommand {\beamer@subsectionentry {0}{2}{2}{12}{Benefits}}\headcommand {\beamer@subsectionpages {11}{11}}
-\headcommand {\slideentry {2}{2}{1}{12/12}{Benefits}{0}}
+\headcommand {\beamer@subsectionentry {0}{2}{1}{12}{Usages}}\headcommand {\beamer@subsectionpages {11}{11}}
+\headcommand {\slideentry {2}{1}{1}{12/12}{Usages}{0}}
 \headcommand {\beamer@framepages {12}{12}}
-\headcommand {\beamer@subsectionentry {0}{2}{3}{13}{Example Cases}}\headcommand {\beamer@subsectionpages {12}{12}}
-\headcommand {\slideentry {2}{3}{1}{13/13}{Example Cases}{0}}
+\headcommand {\beamer@subsectionentry {0}{2}{2}{13}{Benefits}}\headcommand {\beamer@subsectionpages {12}{12}}
+\headcommand {\slideentry {2}{2}{1}{13/13}{Benefits}{0}}
 \headcommand {\beamer@framepages {13}{13}}
-\headcommand {\sectionentry {3}{Classifications}{14}{Classifications}{0}}
-\headcommand {\beamer@sectionpages {10}{13}}
-\headcommand {\beamer@subsectionpages {13}{13}}
-\headcommand {\slideentry {3}{0}{1}{14/14}{}{0}}
+\headcommand {\beamer@subsectionentry {0}{2}{3}{14}{Example Cases}}\headcommand {\beamer@subsectionpages {13}{13}}
+\headcommand {\slideentry {2}{3}{1}{14/14}{Example Cases}{0}}
 \headcommand {\beamer@framepages {14}{14}}
-\headcommand {\beamer@subsectionentry {0}{3}{1}{15}{Usages}}\headcommand {\beamer@subsectionpages {14}{14}}
-\headcommand {\slideentry {3}{1}{1}{15/15}{Usages}{0}}
+\headcommand {\sectionentry {3}{Classifications}{15}{Classifications}{0}}
+\headcommand {\beamer@sectionpages {11}{14}}
+\headcommand {\beamer@subsectionpages {14}{14}}
+\headcommand {\slideentry {3}{0}{1}{15/15}{}{0}}
 \headcommand {\beamer@framepages {15}{15}}
-\headcommand {\beamer@subsectionentry {0}{3}{2}{16}{Example Cases}}\headcommand {\beamer@subsectionpages {15}{15}}
-\headcommand {\slideentry {3}{2}{1}{16/16}{Example Cases}{0}}
+\headcommand {\beamer@subsectionentry {0}{3}{1}{16}{Usages}}\headcommand {\beamer@subsectionpages {15}{15}}
+\headcommand {\slideentry {3}{1}{1}{16/16}{Usages}{0}}
 \headcommand {\beamer@framepages {16}{16}}
-\headcommand {\sectionentry {4}{Deep Learning}{17}{Deep Learning}{0}}
-\headcommand {\beamer@sectionpages {14}{16}}
-\headcommand {\beamer@subsectionpages {16}{16}}
-\headcommand {\slideentry {4}{0}{1}{17/17}{}{0}}
+\headcommand {\beamer@subsectionentry {0}{3}{2}{17}{Example Cases}}\headcommand {\beamer@subsectionpages {16}{16}}
+\headcommand {\slideentry {3}{2}{1}{17/17}{Example Cases}{0}}
 \headcommand {\beamer@framepages {17}{17}}
-\headcommand {\beamer@subsectionentry {0}{4}{1}{18}{Neural Networks}}\headcommand {\beamer@subsectionpages {17}{17}}
-\headcommand {\slideentry {4}{1}{1}{18/18}{Neural Networks}{0}}
+\headcommand {\sectionentry {4}{Deep Learning}{18}{Deep Learning}{0}}
+\headcommand {\beamer@sectionpages {15}{17}}
+\headcommand {\beamer@subsectionpages {17}{17}}
+\headcommand {\slideentry {4}{0}{1}{18/18}{}{0}}
 \headcommand {\beamer@framepages {18}{18}}
-\headcommand {\beamer@subsectionentry {0}{4}{2}{19}{Meaning}}\headcommand {\beamer@subsectionpages {18}{18}}
-\headcommand {\slideentry {4}{2}{1}{19/19}{Meaning}{0}}
+\headcommand {\beamer@subsectionentry {0}{4}{1}{19}{Neural Networks}}\headcommand {\beamer@subsectionpages {18}{18}}
+\headcommand {\slideentry {4}{1}{1}{19/19}{Neural Networks}{0}}
 \headcommand {\beamer@framepages {19}{19}}
-\headcommand {\beamer@subsectionentry {0}{4}{3}{20}{Usages}}\headcommand {\beamer@subsectionpages {19}{19}}
-\headcommand {\slideentry {4}{3}{1}{20/20}{Usages}{0}}
+\headcommand {\beamer@subsectionentry {0}{4}{2}{20}{Meaning}}\headcommand {\beamer@subsectionpages {19}{19}}
+\headcommand {\slideentry {4}{2}{1}{20/20}{Meaning}{0}}
 \headcommand {\beamer@framepages {20}{20}}
-\headcommand {\beamer@subsectionentry {0}{4}{4}{21}{Advantages}}\headcommand {\beamer@subsectionpages {20}{20}}
-\headcommand {\slideentry {4}{4}{1}{21/21}{Advantages}{0}}
+\headcommand {\beamer@subsectionentry {0}{4}{3}{21}{Usages}}\headcommand {\beamer@subsectionpages {20}{20}}
+\headcommand {\slideentry {4}{3}{1}{21/21}{Usages}{0}}
 \headcommand {\beamer@framepages {21}{21}}
-\headcommand {\sectionentry {5}{Conclusion}{22}{Conclusion}{0}}
-\headcommand {\beamer@sectionpages {17}{21}}
-\headcommand {\beamer@subsectionpages {21}{21}}
-\headcommand {\slideentry {5}{0}{1}{22/22}{}{0}}
+\headcommand {\beamer@subsectionentry {0}{4}{4}{22}{Advantages}}\headcommand {\beamer@subsectionpages {21}{21}}
+\headcommand {\slideentry {4}{4}{1}{22/22}{Advantages}{0}}
 \headcommand {\beamer@framepages {22}{22}}
-\headcommand {\slideentry {5}{0}{2}{23/23}{}{0}}
+\headcommand {\sectionentry {5}{Conclusion}{23}{Conclusion}{0}}
+\headcommand {\beamer@sectionpages {18}{22}}
+\headcommand {\beamer@subsectionpages {22}{22}}
+\headcommand {\slideentry {5}{0}{1}{23/23}{}{0}}
 \headcommand {\beamer@framepages {23}{23}}
-\headcommand {\slideentry {5}{0}{3}{24/24}{}{0}}
+\headcommand {\slideentry {5}{0}{2}{24/24}{}{0}}
 \headcommand {\beamer@framepages {24}{24}}
-\headcommand {\slideentry {5}{0}{4}{25/25}{}{0}}
+\headcommand {\slideentry {5}{0}{3}{25/25}{}{0}}
 \headcommand {\beamer@framepages {25}{25}}
-\headcommand {\beamer@partpages {1}{25}}
-\headcommand {\beamer@subsectionpages {1}{25}}
-\headcommand {\beamer@sectionpages {1}{25}}
-\headcommand {\beamer@documentpages {25}}
-\headcommand {\def \inserttotalframenumber {25}}
+\headcommand {\slideentry {5}{0}{4}{26/26}{}{0}}
+\headcommand {\beamer@framepages {26}{26}}
+\headcommand {\beamer@partpages {1}{26}}
+\headcommand {\beamer@subsectionpages {1}{26}}
+\headcommand {\beamer@sectionpages {1}{26}}
+\headcommand {\beamer@documentpages {26}}
+\headcommand {\def \inserttotalframenumber {26}}

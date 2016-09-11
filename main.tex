@@ -10,6 +10,7 @@
 %% packages
 \usepackage{tikz}
 \usepackage{geometry}
+\usepackage{graphicx}
 \usepackage{mathptmx}
 \usepackage[scaled=0.9]{helvet}
 \usepackage{courier}
@@ -90,7 +91,6 @@
 				\large{Field of study that gives computers the ability to learn without being explicitly programmed.}\\
 				\bigskip
 				\small{Instead of writing code, you feed data to the generic algorithm and it builds its own logic based on the data.}
-				%TODO : Insert Image
 				\begin{figure}
 				\centering
 				\includegraphics[width=\linewidth,height=30mm]{images/classif-ex}
@@ -99,7 +99,35 @@
 			\end{center}
 		\end{frame}
 		\subsection{Case Studies}
-			\begin{frame}{Case Studies | Machine Learning}
+			\begin{frame}{Case Studies | Supervised Learning}
+				\begin{center}
+					\begin{tabular}{|c|c|c|c|}							\hline 
+						\bfseries{Bedroom} & \bfseries{Sq.Ft} & \bfseries{Neighbourhood} & \bfseries{Price}\\ 	\hline
+						3       & 2000  & Uptown        & \$350,000 \\ 	\hline 
+						2       & 800   & Downtown      & \$200,000 \\ 	\hline 
+						2       & 850   & City Centre   & \$150,000 \\ 	\hline 
+						1       & 550   & Suburbs       & \$75,000 \\	\hline 
+						4       & 2000  & Suburbs       & \$200,000 \\	\hline 
+					\end{tabular}
+					\bigskip %NOT WORKING WTF ???
+					\begin{tabular}{|c|c|c|c|}							\hline 
+						\bfseries{Bedroom} & \bfseries{Sq.Ft} & \bfseries{Neighbourhood} & \bfseries{Price}\\ 	\hline
+						3   	& 2000  & Uptown        & ???\\			\hline 
+					\end{tabular} \\
+					\bigskip
+					Supervised learning is the machine learning task of inferring a function from labeled training data.
+				\end{center} 
+			\end{frame}
+			\begin{frame}{Case Studies | Supervised Learning}
+				\begin{center}
+					\begin{tabular}{|l l|}\hline 
+						\multicolumn{2}{|c|}{\textbf{Math's Exam - Answer Keys}}\\
+						1) 2 4 5 = 3 & 5) 6 2 2 = 10 \\ 
+						2) 5 2 8 = 2 & 6) 3 1 1 = 2  \\ 
+						3) 2 2 1 = 3 & 7) 5 3 4 = 11 \\ 
+						4) 2 2 4 = 6 & 8) 1 8 1 = 7  \\ \hline
+					\end{tabular} 
+				\end{center}
 			\end{frame}
 		\subsection{Formal Defintion}
 			\begin{frame}{Machine Learning | Formal Definiton}
@@ -110,7 +138,7 @@
 					\bigskip
 					\small{Evolved from :}
 					\begin{itemize}
-						\item {\small Patter Recognition}
+						\item {\small Pattern Recognition}
 						\item {\small Computational Learning Theory}
 						\item {\small Artificial Intelligence}
 					\end{itemize}
@@ -174,6 +202,7 @@
 				\item \scriptsize{Phil Simon (March 18, 2013). Too Big to Ignore: The Business Case for Big Data. Wiley. p. 89. ISBN 978-1-118
 					-63817-0.}
 				\item \scriptsize{Mitchell, T. (1997). Machine Learning, McGraw Hill. ISBN 0-07-042807-7}
+				\item \scriptsize{ Mehryar Mohri, Afshin Rostamizadeh, Ameet Talwalkar (2012) Foundations of Machine Learning, The MIT Press ISBN 9780262018258.}
 			\end{itemize}
 			\onecolumn
 		\end{frame}
