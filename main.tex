@@ -11,6 +11,8 @@
 \usepackage{tikz}
 \usepackage{geometry}
 \usepackage{graphicx}
+\usepackage{wrapfig}
+\usepackage{multimedia}
 \usepackage{mathptmx}
 \usepackage[scaled=0.9]{helvet}
 \usepackage{courier}
@@ -108,8 +110,8 @@
 						2       & 850   & City Centre   & \$150,000 \\ 	\hline 
 						1       & 550   & Suburbs       & \$75,000 \\	\hline 
 						4       & 2000  & Suburbs       & \$200,000 \\	\hline 
-					\end{tabular}
-					\bigskip %NOT WORKING WTF ???
+					\end{tabular}\\
+					\bigskip
 					\begin{tabular}{|c|c|c|c|}							\hline 
 						\bfseries{Bedroom} & \bfseries{Sq.Ft} & \bfseries{Neighbourhood} & \bfseries{Price}\\ 	\hline
 						3   	& 2000  & Uptown        & ???\\			\hline 
@@ -126,7 +128,60 @@
 						2) 5 2 8 = 2 & 6) 3 1 1 = 2  \\ 
 						3) 2 2 1 = 3 & 7) 5 3 4 = 11 \\ 
 						4) 2 2 4 = 6 & 8) 1 8 1 = 7  \\ \hline
-					\end{tabular} 
+					\end{tabular}\\
+					\bigskip
+					\begin{itemize}
+						\item The training data consist of a set of training examples.
+						\item Training Data :
+							\begin{itemize}
+								\item Input Object : Set of Features
+								\item Desired Output : Supervisory Signal
+							\end{itemize}
+						\item A supervised learning algorithm produces an inferred function.
+						\item An analogus task in human and animal phsycology : Concept Learning.
+					\end{itemize}
+				\end{center}
+			\end{frame}
+			\begin{frame}{Case Studies | Unsupervised Learning}
+				\begin{center}
+					\begin{figure}
+					\centering
+					\includegraphics[width=\linewidth]{images/unsupl-ex}
+					\caption{Google News grouping similar stories together.}
+					\end{figure}
+					Unsupervised learning is the machine learning task of inferring a function to describe hidden structure from unlabeled data.
+				\end{center}
+			\end{frame}
+			\begin{frame}{Cocktail Party Problem | Unsupervised Learning}
+				\begin{wrapfigure}[]{R}{0.6\textwidth}
+					\centering
+					\includegraphics[width=0.7\linewidth]{images/cpp-repr}
+					\caption{Overlapped Recordings}
+				\end{wrapfigure}
+				Sound from :
+				\begin{itemize}
+					\item \sound[label=show1, inlinesound]{{\it Microphone 1}}{sounds/cpp-mix1.wav}
+					\item \sound[label=show1, inlinesound]{{\it Microphone 2}}{sounds/cpp-mix2.wav}
+				\end{itemize}
+				\bigskip
+				Output from \\ Learning Algorithm :
+				\begin{itemize}
+					\item \sound[label=show1, inlinesound]{{\it Output 1}}{sounds/cpp-output1.wav}
+					\item \sound[label=show1, inlinesound]{{\it Output 2}}{sounds/cpp-output2.wav}
+				\end{itemize}
+			\end{frame}
+			\begin{frame}{Case Studies | Unsupervised Learning}
+				\begin{center}
+					\begin{figure}
+						\centering
+						\includegraphics[width=\linewidth]{images/gene-classification}
+						\caption[Gene Clustering]{Gene Clustering}
+					\end{figure}
+					\begin{itemize}
+						\item Training Data given to the learner is unlabeled.
+						\item No error or reward signal to evaluate a potential solution.
+						\item Closely related to density estimation in statistics.
+					\end{itemize}
 				\end{center}
 			\end{frame}
 		\subsection{Formal Defintion}
@@ -203,6 +258,7 @@
 					-63817-0.}
 				\item \scriptsize{Mitchell, T. (1997). Machine Learning, McGraw Hill. ISBN 0-07-042807-7}
 				\item \scriptsize{ Mehryar Mohri, Afshin Rostamizadeh, Ameet Talwalkar (2012) Foundations of Machine Learning, The MIT Press ISBN 9780262018258.}
+				\item \scriptsize{Jordan, Michael I.; Bishop, Christopher M. (2004). "Neural Networks". In Allen B. Tucker. Computer Science Handbook, Second Edition (Section VII: Intelligent Systems). Boca Raton, FL: Chapman \& Hall/CRC Press LLC. ISBN 1-58488-360-X.}
 			\end{itemize}
 			\onecolumn
 		\end{frame}
