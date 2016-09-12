@@ -8,14 +8,14 @@
 \usefonttheme{serif}
 
 %% packages
-\usepackage{tikz}
+\usepackage{courier}
 \usepackage{geometry}
 \usepackage{graphicx}
-\usepackage{wrapfig}
+\usepackage[scaled=0.9]{helvet}
 \usepackage{multimedia}
 \usepackage{mathptmx}
-\usepackage[scaled=0.9]{helvet}
-\usepackage{courier}
+\usepackage{tikz}
+\usepackage{wrapfig}
 
 %%color settings
 \input{settings/colour}
@@ -124,10 +124,10 @@
 				\begin{center}
 					\begin{tabular}{|l l|}\hline 
 						\multicolumn{2}{|c|}{\textbf{Math's Exam - Answer Keys}}\\
-						1) 2 4 5 = 3 & 5) 6 2 2 = 10 \\ 
-						2) 5 2 8 = 2 & 6) 3 1 1 = 2  \\ 
-						3) 2 2 1 = 3 & 7) 5 3 4 = 11 \\ 
-						4) 2 2 4 = 6 & 8) 1 8 1 = 7  \\ \hline
+						1) 2  4  5 = 3 & 5) 6  2  2 = 10 \\ 
+						2) 5  2  8 = 2 & 6) 3  1  1 = 2  \\ 
+						3) 2  2  1 = 3 & 7) 5  3  4 = 11 \\ 
+						4) 2  2  4 = 6 & 8) 1  8  1 = 7  \\ \hline
 					\end{tabular}\\
 					\bigskip
 					\begin{itemize}
@@ -153,22 +153,28 @@
 				\end{center}
 			\end{frame}
 			\begin{frame}{Cocktail Party Problem | Unsupervised Learning}
-				\begin{wrapfigure}[]{R}{0.6\textwidth}
-					\centering
-					\includegraphics[width=0.7\linewidth]{images/cpp-repr}
-					\caption{Overlapped Recordings}
-				\end{wrapfigure}
-				Sound from :
-				\begin{itemize}
-					\item \sound[label=show1, inlinesound]{{\it Microphone 1}}{sounds/cpp-mix1.wav}
-					\item \sound[label=show1, inlinesound]{{\it Microphone 2}}{sounds/cpp-mix2.wav}
-				\end{itemize}
-				\bigskip
-				Output from \\ Learning Algorithm :
-				\begin{itemize}
-					\item \sound[label=show1, inlinesound]{{\it Output 1}}{sounds/cpp-output1.wav}
-					\item \sound[label=show1, inlinesound]{{\it Output 2}}{sounds/cpp-output2.wav}
-				\end{itemize}
+				\begin{columns}
+					\begin{column}{0.5\textwidth}
+						Sound from :
+						\begin{itemize}
+							\item \sound[label=show1, inlinesound]{{\it Microphone 1}}{sounds/cpp-mix1.wav}
+							\item \sound[label=show1, inlinesound]{{\it Microphone 2}}{sounds/cpp-mix2.wav}
+						\end{itemize}
+						\bigskip
+						Output from Learning Algorithm :
+						\begin{itemize}
+							\item \sound[label=show1, inlinesound]{{\it Output 1}}{sounds/cpp-output1.wav}
+							\item \sound[label=show1, inlinesound]{{\it Output 2}}{sounds/cpp-output2.wav}
+						\end{itemize}
+					\end{column}
+					\begin{column}{0.5\textwidth}
+						\begin{figure}
+							\centering
+							\includegraphics[width=1.0\linewidth]{images/cpp-repr}
+							\caption{Overlapped Recordings}
+						\end{figure}
+					\end{column}
+				\end{columns}
 			\end{frame}
 			\begin{frame}{Case Studies | Unsupervised Learning}
 				\begin{center}
@@ -199,11 +205,68 @@
 					\end{itemize}
 				\end{center}
 			\end{frame}
-		\subsection{Benefits}
-			\begin{frame}{Benefits | Machine Learning}
-			\end{frame}
 		\subsection{Applications}
 			\begin{frame}{Applications | Machine Learning}
+			\begin{columns}
+				\begin{column}{0.5\textwidth}
+					\begin{itemize}
+						\item Adaptive websites
+						\item Classifying DNA sequences
+						\item Computer vision
+						\item Internet fraud detection
+						\item Natural language processing
+					\end{itemize}
+				\end{column}
+				\begin{column}{0.5\textwidth}
+					\begin{itemize}
+						\item Online advertising
+						\item Recommender systems
+						\item Search engines
+						\item Sentiment analysis
+						\item Speech and handwriting recognition
+					\end{itemize}
+				\end{column}
+			\end{columns}	
+			\end{frame}
+			\begin{frame}{Industry Trends}
+				\begin{columns}
+					\begin{column}{0.5\textwidth}
+						\begin{center}
+						\includegraphics[width=0.9\linewidth]{images/app-2}
+						\end{center}
+					\end{column}
+					\begin{column}{0.5\textwidth}
+						\begin{center}
+							Google Chauffer :
+						Self Driving Car by Google
+						\end{center}
+					\end{column}
+				\end{columns}
+				\begin{columns}
+					\begin{column}{0.5\textwidth}
+						\begin{center}
+							\includegraphics[width=0.9\linewidth]{images/app-3}
+						\end{center}
+					\end{column}
+					\begin{column}{0.5\textwidth}
+						\begin{center}
+							IBM Research : Credit Card Fraud Detection
+						\end{center}
+					\end{column}
+				\end{columns}
+			\end{frame}
+			\begin{frame}{Industry Trends}
+				\begin{figure}
+					\centering
+					\includegraphics[width=0.9\linewidth]{images/app-1}
+					\caption{Kaggle Challenge : Psychopathy Prediction}
+				\end{figure}
+				\begin{center}
+					The  aim of the competition is to determine to what degree it's possible to predict people with a sufficiently high degree of Psychopathy based on Twitter usage and Linguistic Inquiry.
+				\end{center}
+			\end{frame}
+		\subsection{Benefits}
+			\begin{frame}{Benefits | Machine Learning}
 			\end{frame}
 	
 	\section{Regression}
@@ -259,6 +322,8 @@
 				\item \scriptsize{Mitchell, T. (1997). Machine Learning, McGraw Hill. ISBN 0-07-042807-7}
 				\item \scriptsize{ Mehryar Mohri, Afshin Rostamizadeh, Ameet Talwalkar (2012) Foundations of Machine Learning, The MIT Press ISBN 9780262018258.}
 				\item \scriptsize{Jordan, Michael I.; Bishop, Christopher M. (2004). "Neural Networks". In Allen B. Tucker. Computer Science Handbook, Second Edition (Section VII: Intelligent Systems). Boca Raton, FL: Chapman \& Hall/CRC Press LLC. ISBN 1-58488-360-X.}
+				\item \scriptsize{https: //www.kaggle.com/c/twitter-psychopathy-prediction}
+				\item \scriptsize{Mastering the game of Go with deep neural networks and tree search (2016), D. Silver et al.}
 			\end{itemize}
 			\onecolumn
 		\end{frame}

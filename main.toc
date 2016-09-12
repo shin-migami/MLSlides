@@ -2,18 +2,18 @@
 \beamer@sectionintoc {1}{Introduction}{5}{0}{1}
 \beamer@subsectionintoc {1}{1}{Case Studies}{6}{0}{1}
 \beamer@subsectionintoc {1}{2}{Formal Defintion}{11}{0}{1}
-\beamer@subsectionintoc {1}{3}{Benefits}{12}{0}{1}
-\beamer@subsectionintoc {1}{4}{Applications}{13}{0}{1}
-\beamer@sectionintoc {2}{Regression}{14}{0}{2}
-\beamer@subsectionintoc {2}{1}{Usages}{15}{0}{2}
-\beamer@subsectionintoc {2}{2}{Benefits}{16}{0}{2}
-\beamer@subsectionintoc {2}{3}{Example Cases}{17}{0}{2}
-\beamer@sectionintoc {3}{Classifications}{18}{0}{3}
-\beamer@subsectionintoc {3}{1}{Usages}{19}{0}{3}
-\beamer@subsectionintoc {3}{2}{Example Cases}{20}{0}{3}
-\beamer@sectionintoc {4}{Deep Learning}{21}{0}{4}
-\beamer@subsectionintoc {4}{1}{Neural Networks}{22}{0}{4}
-\beamer@subsectionintoc {4}{2}{Meaning}{23}{0}{4}
-\beamer@subsectionintoc {4}{3}{Usages}{24}{0}{4}
-\beamer@subsectionintoc {4}{4}{Advantages}{25}{0}{4}
-\beamer@sectionintoc {5}{Conclusion}{26}{0}{5}
+\beamer@subsectionintoc {1}{3}{Applications}{12}{0}{1}
+\beamer@subsectionintoc {1}{4}{Benefits}{15}{0}{1}
+\beamer@sectionintoc {2}{Regression}{16}{0}{2}
+\beamer@subsectionintoc {2}{1}{Usages}{17}{0}{2}
+\beamer@subsectionintoc {2}{2}{Benefits}{18}{0}{2}
+\beamer@subsectionintoc {2}{3}{Example Cases}{19}{0}{2}
+\beamer@sectionintoc {3}{Classifications}{20}{0}{3}
+\beamer@subsectionintoc {3}{1}{Usages}{21}{0}{3}
+\beamer@subsectionintoc {3}{2}{Example Cases}{22}{0}{3}
+\beamer@sectionintoc {4}{Deep Learning}{23}{0}{4}
+\beamer@subsectionintoc {4}{1}{Neural Networks}{24}{0}{4}
+\beamer@subsectionintoc {4}{2}{Meaning}{25}{0}{4}
+\beamer@subsectionintoc {4}{3}{Usages}{26}{0}{4}
+\beamer@subsectionintoc {4}{4}{Advantages}{27}{0}{4}
+\beamer@sectionintoc {5}{Conclusion}{28}{0}{5}
