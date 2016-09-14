@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.9.4)  14 SEP 2016 08:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.9.4)  14 SEP 2016 08:41
 entering extended mode
 **./main.tex
 (main.tex
@@ -968,7 +968,7 @@ LaTeX Info: Redefining \includegraphics on input line 37.
 Package hyperref Warning: Option `pdfauthor' has already been used,
 (hyperref)                setting the option has no effect on input line 39.
 
-<images/ml_bg.png, id=85, 240.9pt x 180.675pt>
+<images/ml_bg.png, id=89, 240.9pt x 180.675pt>
 File: images/ml_bg.png Graphic file (type png)
  <use images/ml_bg.png>
 Package pdftex.def Info: images/ml_bg.png used on input line 52.
@@ -984,7 +984,7 @@ Overfull \vbox (5.71704pt too high) detected at line 52
 
 [1
 
- <./images/ml_bg.png>] <images/bg-vec.png, id=94, 1003.75pt x 752.8125pt>
+ <./images/ml_bg.png>] <images/bg-vec.png, id=98, 1003.75pt x 752.8125pt>
 File: images/bg-vec.png Graphic file (type png)
 
 <use images/bg-vec.png>
@@ -1002,7 +1002,7 @@ Package pdftex.def Info: images/bg-vec.png used on input line 70.
 ] [4
 
 ]
-<images/classif-ex.png, id=134, 1806.75pt x 586.19pt>
+<images/classif-ex.png, id=138, 1806.75pt x 586.19pt>
 File: images/classif-ex.png Graphic file (type png)
 
 <use images/classif-ex.png>
@@ -1059,7 +1059,7 @@ Package pdftex.def Info: images/bg-vec.png used on input line 145.
  [7
 
 ]
-<images/unsupl-ex.png, id=185, 1371.1225pt x 453.695pt>
+<images/unsupl-ex.png, id=189, 1371.1225pt x 453.695pt>
 File: images/unsupl-ex.png Graphic file (type png)
 
 <use images/unsupl-ex.png>
@@ -1071,7 +1071,7 @@ Package pdftex.def Info: images/bg-vec.png used on input line 157.
 (pdftex.def)             Requested size: 364.1985pt x 273.14886pt.
  [8
 
- <./images/unsupl-ex.png>] <images/cpp-repr.png, id=206, 803.0pt x 803.0pt>
+ <./images/unsupl-ex.png>] <images/cpp-repr.png, id=210, 803.0pt x 803.0pt>
 File: images/cpp-repr.png Graphic file (type png)
  <use images/cpp-repr.png>
 Package pdftex.def Info: images/cpp-repr.png used on input line 181.
@@ -1084,7 +1084,7 @@ Package pdftex.def Info: images/bg-vec.png used on input line 181.
  [9
 
  <./images/cpp-repr.png>]
-<images/gene-classification.png, id=224, 1335.99126pt x 503.8825pt>
+<images/gene-classification.png, id=228, 1335.99126pt x 503.8825pt>
 File: images/gene-classification.png Graphic file (type png)
 
 <use images/gene-classification.png>
@@ -1105,19 +1105,19 @@ Package pdftex.def Info: images/bg-vec.png used on input line 210.
  [11
 
 ]
-<images/app-2.png, id=255, 803.0pt x 455.7025pt>
+<images/app-2.png, id=259, 803.0pt x 455.7025pt>
 File: images/app-2.png Graphic file (type png)
  <use images/app-2.png>
 Package pdftex.def Info: images/app-2.png used on input line 250.
 (pdftex.def)             Requested size: 125.47585pt x 71.20334pt.
 
-<images/app-3.png, id=256, 466.74374pt x 158.09062pt>
+<images/app-3.png, id=260, 466.74374pt x 158.09062pt>
 File: images/app-3.png Graphic file (type png)
  <use images/app-3.png>
 Package pdftex.def Info: images/app-3.png used on input line 250.
 (pdftex.def)             Requested size: 125.47585pt x 42.49928pt.
 
-<images/app-5.png, id=257, 511.9125pt x 280.04625pt>
+<images/app-5.png, id=261, 511.9125pt x 280.04625pt>
 File: images/app-5.png Graphic file (type png)
  <use images/app-5.png>
 Package pdftex.def Info: images/app-5.png used on input line 250.
@@ -1130,7 +1130,7 @@ Package pdftex.def Info: images/bg-vec.png used on input line 250.
  [12
 
  <./images/app-2.png> <./images/app-3.png> <./images/app-5.png>] <images/app-1.
-png, id=275, 803.0pt x 399.4925pt>
+png, id=279, 803.0pt x 399.4925pt>
 File: images/app-1.png Graphic file (type png)
 
 <use images/app-1.png>
@@ -1143,7 +1143,7 @@ Package pdftex.def Info: images/bg-vec.png used on input line 260.
  [13
 
  <./images/app-1.png>]
-<images/app-6.png, id=293, 1441.385pt x 722.7pt>
+<images/app-6.png, id=297, 1441.385pt x 722.7pt>
 File: images/app-6.png Graphic file (type png)
  <use images/app-6.png>
 Package pdftex.def Info: images/app-6.png used on input line 264.
@@ -1163,7 +1163,7 @@ Package pdftex.def Info: images/bg-vec.png used on input line 287.
 
 [15
 
-] <images/pca-merge.png, id=326, 461.725pt x 1057.9525pt>
+] <images/pca-merge.png, id=330, 461.725pt x 1057.9525pt>
 File: images/pca-merge.png Graphic file (type png)
 
 <use images/pca-merge.png>
@@ -1205,19 +1205,15 @@ Package pdftex.def Info: images/bg-vec.png used on input line 317.
  [20
 
 ]
+<images/barun_1.jpg, id=402, 640.3925pt x 480.79625pt>
+File: images/barun_1.jpg Graphic file (type jpg)
 
-! LaTeX Error: File `images/barun_1' not found.
+<use images/barun_1.jpg>
+Package pdftex.def Info: images/barun_1.jpg used on input line 332.
+(pdftex.def)             Requested size: 170.70967pt x 113.80879pt.
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.332 		\end{frame}
-                   
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+Overfull \vbox (3.94704pt too high) detected at line 332
+ []
 
 File: images/bg-vec.png Graphic file (type png)
 <use images/bg-vec.png>
@@ -1225,41 +1221,29 @@ Package pdftex.def Info: images/bg-vec.png used on input line 332.
 (pdftex.def)             Requested size: 364.1985pt x 273.14886pt.
  [21
 
-]
+ <./images/barun_1.jpg>]
+<images/barun_2.jpg, id=417, 250.68657pt x 134.75343pt>
+File: images/barun_2.jpg Graphic file (type jpg)
 
-! LaTeX Error: File `images/barun_2' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.345 		\end{frame}
-                   
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
+<use images/barun_2.jpg>
+Package pdftex.def Info: images/barun_2.jpg used on input line 345.
+(pdftex.def)             Requested size: 170.72472pt x 113.81306pt.
 File: images/bg-vec.png Graphic file (type png)
-<use images/bg-vec.png>
+ <use images/bg-vec.png>
 Package pdftex.def Info: images/bg-vec.png used on input line 345.
 (pdftex.def)             Requested size: 364.1985pt x 273.14886pt.
  [22
 
-]
+ <./images/barun_2.jpg>]
+<images/barun_3.jpg, id=430, 640.3925pt x 480.79625pt>
+File: images/barun_3.jpg Graphic file (type jpg)
 
-! LaTeX Error: File `images/barun_3' not found.
+<use images/barun_3.jpg>
+Package pdftex.def Info: images/barun_3.jpg used on input line 353.
+(pdftex.def)             Requested size: 199.16454pt x 170.71687pt.
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.353 		\end{frame}
-                   
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+Overfull \vbox (1.5046pt too high) detected at line 353
+ []
 
 File: images/bg-vec.png Graphic file (type png)
 <use images/bg-vec.png>
@@ -1267,20 +1251,15 @@ Package pdftex.def Info: images/bg-vec.png used on input line 353.
 (pdftex.def)             Requested size: 364.1985pt x 273.14886pt.
  [23
 
-]
+ <./images/barun_3.jpg>]
+<images/barun_4.jpg, id=444, 738.76pt x 1123.19624pt>
+File: images/barun_4.jpg Graphic file (type jpg)
+ <use images/barun_4.jpg>
+Package pdftex.def Info: images/barun_4.jpg used on input line 361.
+(pdftex.def)             Requested size: 147.74937pt x 224.63527pt.
 
-! LaTeX Error: File `images/barun_4' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.361 		\end{frame}
-                   
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+Overfull \vbox (23.01457pt too high) detected at line 361
+ []
 
 File: images/bg-vec.png Graphic file (type png)
 <use images/bg-vec.png>
@@ -1288,17 +1267,17 @@ Package pdftex.def Info: images/bg-vec.png used on input line 361.
 (pdftex.def)             Requested size: 364.1985pt x 273.14886pt.
  [24
 
-]
+ <./images/barun_4.jpg>]
 File: images/bg-vec.png Graphic file (type png)
  <use images/bg-vec.png>
 Package pdftex.def Info: images/bg-vec.png used on input line 385.
 (pdftex.def)             Requested size: 364.1985pt x 273.14886pt.
- [25
+
+[25
 
 ]
 File: images/bg-vec.png Graphic file (type png)
-
-<use images/bg-vec.png>
+ <use images/bg-vec.png>
 Package pdftex.def Info: images/bg-vec.png used on input line 385.
 (pdftex.def)             Requested size: 364.1985pt x 273.14886pt.
  [26
@@ -1316,40 +1295,29 @@ Package multimedia Warning: The movie file ``video/somnath_5.mov'' could not be
  found in the current directory, where it must reside for viewing. on input lin
 e 394.
 
+<images/somnath_4.jpg, id=497, 673.01437pt x 408.77719pt>
+File: images/somnath_4.jpg Graphic file (type jpg)
 
-! LaTeX Error: File `images/somnath_4' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.394 		\end{frame}
-                   
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
+<use images/somnath_4.jpg>
+Package pdftex.def Info: images/somnath_4.jpg used on input line 394.
+(pdftex.def)             Requested size: 201.90587pt x 122.6341pt.
 File: images/bg-vec.png Graphic file (type png)
-<use images/bg-vec.png>
+ <use images/bg-vec.png>
 Package pdftex.def Info: images/bg-vec.png used on input line 394.
 (pdftex.def)             Requested size: 364.1985pt x 273.14886pt.
  [28
 
-]
+ <./images/somnath_4.jpg>] <images/somnath_1.jpg, id=519, 574.145pt x 323.2075p
+t>
+File: images/somnath_1.jpg Graphic file (type jpg)
 
-! LaTeX Error: File `images/somnath_1' not found.
+<use images/somnath_1.jpg>
+Package pdftex.def Info: images/somnath_1.jpg used on input line 397.
+(pdftex.def)             Requested size: 287.0718pt x 161.60335pt.
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.397 		\end{frame}
-                   
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+Overfull \hbox (8.23466pt too wide) in paragraph at lines 397--397
+[][]  
+ []
 
 File: images/bg-vec.png Graphic file (type png)
 <use images/bg-vec.png>
@@ -1357,20 +1325,16 @@ Package pdftex.def Info: images/bg-vec.png used on input line 397.
 (pdftex.def)             Requested size: 364.1985pt x 273.14886pt.
  [29
 
-]
+ <./images/somnath_1.jpg>]
+<images/somnath_2.jpg, id=536, 574.145pt x 643.40375pt>
+File: images/somnath_2.jpg Graphic file (type jpg)
 
-! LaTeX Error: File `images/somnath_2' not found.
+<use images/somnath_2.jpg>
+Package pdftex.def Info: images/somnath_2.jpg used on input line 405.
+(pdftex.def)             Requested size: 170.7117pt x 199.16838pt.
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.405 		\end{frame}
-                   
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+Overfull \vbox (11.3582pt too high) detected at line 405
+ []
 
 File: images/bg-vec.png Graphic file (type png)
 <use images/bg-vec.png>
@@ -1378,20 +1342,16 @@ Package pdftex.def Info: images/bg-vec.png used on input line 405.
 (pdftex.def)             Requested size: 364.1985pt x 273.14886pt.
  [30
 
-]
+ <./images/somnath_2.jpg>]
+<images/somnath_3.jpg, id=552, 720.6925pt x 446.66875pt>
+File: images/somnath_3.jpg Graphic file (type jpg)
 
-! LaTeX Error: File `images/somnath_3' not found.
+<use images/somnath_3.jpg>
+Package pdftex.def Info: images/somnath_3.jpg used on input line 413.
+(pdftex.def)             Requested size: 227.61317pt x 199.17249pt.
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.413 		\end{frame}
-                   
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+Overfull \vbox (11.3623pt too high) detected at line 413
+ []
 
 File: images/bg-vec.png Graphic file (type png)
 <use images/bg-vec.png>
@@ -1399,7 +1359,7 @@ Package pdftex.def Info: images/bg-vec.png used on input line 413.
 (pdftex.def)             Requested size: 364.1985pt x 273.14886pt.
  [31
 
-]
+ <./images/somnath_3.jpg>]
 Missing character: There is no â in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
 Missing character: There is no ™ in font ptmr7t!
@@ -1410,27 +1370,19 @@ Missing character: There is no â in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
 Missing character: There is no ™ in font ptmr7t!
 
+<images/somnath_6.jpg, id=569, 236.38312pt x 94.10156pt>
+File: images/somnath_6.jpg Graphic file (type jpg)
 
-! LaTeX Error: File `images/somnath_6' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.429 		\end{frame}
-                   
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
+<use images/somnath_6.jpg>
+Package pdftex.def Info: images/somnath_6.jpg used on input line 429.
+(pdftex.def)             Requested size: 85.35754pt x 28.45323pt.
 File: images/bg-vec.png Graphic file (type png)
-<use images/bg-vec.png>
+ <use images/bg-vec.png>
 Package pdftex.def Info: images/bg-vec.png used on input line 429.
 (pdftex.def)             Requested size: 364.1985pt x 273.14886pt.
  [32
 
-]
+ <./images/somnath_6.jpg>]
 Missing character: There is no â in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
 Missing character: There is no ” in font ptmr7t!
@@ -1449,45 +1401,34 @@ Package multimedia Warning: The movie file ``video/somnath_10.mov'' could not b
 e found in the current directory, where it must reside for viewing. on input li
 ne 458.
 
+<images/somnath_11.png, id=600, 401.5pt x 254.9525pt>
+File: images/somnath_11.png Graphic file (type png)
 
-! LaTeX Error: File `images/somnath_11' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.458 		\end{frame}
-                   
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
+<use images/somnath_11.png>
+Package pdftex.def Info: images/somnath_11.png used on input line 458.
+(pdftex.def)             Requested size: 200.7495pt x 127.47592pt.
 File: images/bg-vec.png Graphic file (type png)
-<use images/bg-vec.png>
+ <use images/bg-vec.png>
 Package pdftex.def Info: images/bg-vec.png used on input line 458.
 (pdftex.def)             Requested size: 364.1985pt x 273.14886pt.
  [34
 
-]
+ <./images/somnath_11.png (PNG copy)>]
 
 Package multimedia Warning: The movie file ``video/somnath_12.mov'' could not b
 e found in the current directory, where it must reside for viewing. on input li
 ne 470.
 
+<images/somnath_9.jpg, id=617, 841.1425pt x 465.74pt>
+File: images/somnath_9.jpg Graphic file (type jpg)
 
-! LaTeX Error: File `images/somnath_9' not found.
+<use images/somnath_9.jpg>
+Package pdftex.def Info: images/somnath_9.jpg used on input line 470.
+(pdftex.def)             Requested size: 285.98466pt x 158.3495pt.
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.470 		\end{frame}
-                   
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+Overfull \hbox (9.64754pt too wide) in paragraph at lines 470--470
+ [][][] 
+ []
 
 File: images/bg-vec.png Graphic file (type png)
 <use images/bg-vec.png>
@@ -1495,82 +1436,52 @@ Package pdftex.def Info: images/bg-vec.png used on input line 470.
 (pdftex.def)             Requested size: 364.1985pt x 273.14886pt.
  [35
 
-]
+ <./images/somnath_9.jpg>]
+<images/somnath_13.jpg, id=635, 1204.5pt x 632.3625pt>
+File: images/somnath_13.jpg Graphic file (type jpg)
 
-! LaTeX Error: File `images/somnath_13' not found.
+<use images/somnath_13.jpg>
+Package pdftex.def Info: images/somnath_13.jpg used on input line 483.
+(pdftex.def)             Requested size: 60.22852pt x 31.61996pt.
+ <images/somnath_14.jpg, id=636, 963.6pt x 722.7pt>
+File: images/somnath_14.jpg Graphic file (type jpg)
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.483 		\end{frame}
-                   
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+<use images/somnath_14.jpg>
+Package pdftex.def Info: images/somnath_14.jpg used on input line 483.
+(pdftex.def)             Requested size: 113.80379pt x 113.80379pt.
 
+<images/somnath_15.jpg, id=637, 1084.05pt x 1084.05pt>
+File: images/somnath_15.jpg Graphic file (type jpg)
 
-! LaTeX Error: File `images/somnath_14' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.483 		\end{frame}
-                   
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: File `images/somnath_15' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.483 		\end{frame}
-                   
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
+<use images/somnath_15.jpg>
+Package pdftex.def Info: images/somnath_15.jpg used on input line 483.
+(pdftex.def)             Requested size: 113.80379pt x 113.80379pt.
 File: images/bg-vec.png Graphic file (type png)
-<use images/bg-vec.png>
+ <use images/bg-vec.png>
 Package pdftex.def Info: images/bg-vec.png used on input line 483.
 (pdftex.def)             Requested size: 364.1985pt x 273.14886pt.
  [36
 
-]
+ <./images/somnath_13.jpg> <./images/somnath_14.jpg> <./images/somnath_15.jpg>]
+
 
 Package multimedia Warning: The movie file ``video/somnath_7.mov'' could not be
  found in the current directory, where it must reside for viewing. on input lin
 e 498.
 
+<images/somnath_8.png, id=654, 2367.84625pt x 874.26625pt>
+File: images/somnath_8.png Graphic file (type png)
 
-! LaTeX Error: File `images/somnath_8' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.498 		\end{frame}
-                   
-I could not locate the file with any of these extensions:
-.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
+<use images/somnath_8.png>
+Package pdftex.def Info: images/somnath_8.png used on input line 498.
+(pdftex.def)             Requested size: 118.39925pt x 43.71587pt.
 File: images/bg-vec.png Graphic file (type png)
-<use images/bg-vec.png>
+ <use images/bg-vec.png>
 Package pdftex.def Info: images/bg-vec.png used on input line 498.
 (pdftex.def)             Requested size: 364.1985pt x 273.14886pt.
  [37
 
-]
+ <./images/somnath_8.png>]
 File: images/bg-vec.png Graphic file (type png)
  <use images/bg-vec.png>
 Package pdftex.def Info: images/bg-vec.png used on input line 504.
@@ -1579,8 +1490,7 @@ Package pdftex.def Info: images/bg-vec.png used on input line 504.
 
 ]
 File: images/bg-vec.png Graphic file (type png)
-
-<use images/bg-vec.png>
+ <use images/bg-vec.png>
 Package pdftex.def Info: images/bg-vec.png used on input line 517.
 (pdftex.def)             Requested size: 364.1985pt x 273.14886pt.
  [39
@@ -1606,46 +1516,24 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 535.
  (main.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 535.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 535.
-
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: BD3E884E579E380B031950527ABF7D15;1043
-(rerunfilecheck)             After:  8F7830FE167186DF822B8552B123A9D3;1105.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 8F7830FE167186DF822B8552B123A9D3;1105.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 535.
  ) 
 Here is how much of TeX's memory you used:
- 20190 strings out of 493334
- 392579 string characters out of 3146991
+ 20251 strings out of 493334
+ 394144 string characters out of 3146991
  463200 words of memory out of 3000000
- 23075 multiletter control sequences out of 15000+200000
+ 23152 multiletter control sequences out of 15000+200000
  30050 words of font info for 61 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,16n,59p,603b,1237s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{Outline0.4.4.28} has been referenced but does not
- exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Outline0.4.3.27} has been referenced but does not e
-xist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Outline0.4.2.26} has been referenced but does not e
-xist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Outline0.4.1.25} has been referenced but does not e
-xist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Outline0.3.2.23} has been referenced but does not e
-xist, replaced by a fixed one
-
-{H:/MiKTeX/fonts/enc/dvips/fontname/8r.enc}<H:/MiKTeX/fonts/type1/urw/times/utm
-b8a.pfb><H:/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><H:/MiKTeX/fonts/type1/urw/
-times/utmri8a.pfb>
-Output written on main.pdf (41 pages, 1395035 bytes).
+{H:/MiKTeX/fonts/enc/dvips/fontname/8r.enc}<H:/MiKTeX/fonts/type1/urw/times/u
+tmb8a.pfb><H:/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><H:/MiKTeX/fonts/type1/ur
+w/times/utmri8a.pfb>
+Output written on main.pdf (41 pages, 3385115 bytes).
 PDF statistics:
- 719 PDF objects out of 1000 (max. 8388607)
- 107 named destinations out of 1000 (max. 500000)
- 251 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 742 PDF objects out of 1000 (max. 8388607)
+ 102 named destinations out of 1000 (max. 500000)
+ 334 words of extra memory for PDF output out of 10000 (max. 10000000)
 
