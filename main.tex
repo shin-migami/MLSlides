@@ -15,6 +15,7 @@
 \usepackage{multimedia}
 \usepackage{mathptmx}
 \usepackage{tikz}
+\usepackage{xmpmulti}
 
 %%color settings
 \input{settings/colour}
@@ -260,7 +261,7 @@
 			\end{frame}
 			\begin{frame}{Entertainment | Machine Learning}
 				%TODO : Insert MarI/O video
-				\movie{\includegraphics[width=\textwidth]{images/app-6.png}}{video/mario-ml.avi}
+				\movie{\includegraphics[width=\textwidth]{images/app-6.png}}{video/mario-ml.mov}
 			\end{frame}
 			\begin{frame}{Applications | Machine Learning}
 				\begin{columns}
@@ -285,239 +286,327 @@
 				\end{columns}
 				%TODO : Insert Animation	
 			\end{frame}
-		\subsection{Benefits}
-			\begin{frame}{Machine Learning | Why ?}
-				\begin{columns}
-					\begin{column}{0.5\textwidth}
-						\begin{itemize}
-							\item Can work with huge amount of data.
-							\item Can make intelligent decisions by taking into account multiple features.
-							\item Can find patterns in large amount of data which is almost impossible for human beings. 
-							\item These algorithms are self-modifying in nature, they get better over time as the usage increases.
-						\end{itemize}
-					\end{column}
-					\begin{column}{0.5\textwidth}
-						\begin{center}
-							\includegraphics[height=0.9\textheight]{images/pca-merge}
-						\end{center}
-					\end{column}
-				\end{columns}
-			\end{frame}	
 	\section{Regression}
-		\begin{frame}{Introduction | Regression}
-		\end{frame}
-		\subsection{Usages}
-			\begin{frame}{Usages | Regression}
-			\end{frame}
-		\subsection{Benefits}
-			\begin{frame}{Benefits | Regression}
-			\end{frame}
-		\subsection{Example Cases}
-			\begin{frame}{Example Cases | Regression}
-			\end{frame}
+	\subsection{Introduction}
+	\begin{frame}[c]{Regression | What?}
+		\begin{center}
+			\huge{Regression}
+			\Large{ is an}
+			\huge{analysis process}
+			\Large{ to predict the value of an attribute derived from}
+			\huge{ multiple known attributes.}
+		\end{center}
+	\end{frame}
 	
-		\section{Classifications}
-		\begin{frame}{Introduction | Classifications}
+	\begin{frame}[c]{Regression | The Commander of Examples}
+		\begin{center}
+			\normalsize{Suppose a Commander needs to be chosen out of a bunch of soldiers. Now no such attribute is known which determines the }
+			\large{the potential to become the Commander.}
+			\normalsize{ \\But other independent attributes are known such as}
+			\large{Attendence, IQ Scores, Physical Fitness, Supervisor Rating.}
+			\pause		
+			\normalsize{\\~\\This is where}
+			\Large{ Regression Analysis}
+			\normalsize{ comes handy.}
+		\end{center}
+	\end{frame}
+	
+	\begin{frame}[t]{Regression | How to?}
+		\begin{center}
+			\small{First the known attributes are plotted separately. Then a composite plot is aquired from all the separate 						plots. Then we must aquire the
+			}
+			\large{Regression Line}
+			\small{ that is a line that fits the best with all the plots}
+			\includegraphics[scale=0.2]{images/ex}			
+		\end{center}
+	\end{frame}
+	
+	\begin{frame}[c]{Regression | Formal Definition}
+		\begin{center}
+			\large{In statistics,}
+			\Large{ Regression Analysis}\large{ is a statistical process for estimating the relationships among variables. It includes many techniques for modeling and analyzing several variables, when the focus is on the relationship between a dependent variable and one or more independent variables.
+			}
+		\end{center}
+	\end{frame}
+	
+	\begin{frame}[c]{Regression | Types of Regression}
+		\begin{figure}
 			\begin{center}
-				\large{In machine learning and statistics, classification is the problem of identifying to which of a set of categories (sub-populations) a new observation belongs.}\\
-				\bigskip
-				\small{ On the basis of a training set of data containing observations (or instances) whose category 							membership is known.}
-				\begin{figure}
-					\centering
-					\includegraphics[width=60mm,height=40mm]{images/barun_1}
-					\caption[]{Classification}
-				\end{figure}
+				\includegraphics[scale=0.35]{images/regt}
 			\end{center}
+			\caption{Types of Regression}
+		\end{figure}
+	\end{frame}
+	
+	\begin{frame}[c]{Regression | Importance of Regression Line}
+		\begin{center}
+			\transduration<0-7>{0}
+			\multiinclude[<+->][format=png, graphics={width=0.5\textwidth}]{images/tmp}
+		\end{center}
+	\end{frame}
+	
+	\subsection{Benefits}
+	\begin{frame}{Regression | It's Beneficial }
+		\Large{}
+		\begin{itemize}
+			\setbeamercovered{transparent}
+			\item<1-> Estimates Future with minimal error
+			\item<2-> Provides Aid in Decision Making
+			\item<3-> Self Developing
+			\item<4-> Increasing Accuracy
+			\item<5-> Develops Big Data and Data Mining   
+		\end{itemize}	
+	\end{frame}
+	
+	\subsection{Usages}
+	\begin{frame}{Regression | There must be its Uses }
+		\Large{Regression analysis}\large{ is most commonly used in}\Large{ forecasting or predicting}\large{ how a set of conditions will impact an outcome.\\~\\}
+		\normalsize{\begin{itemize}
+				\setbeamercovered{transparent}	
+				\item<1> Weather Forecasting
+				\item<2> Stock Market Estimation
+				\item<3> Statistical Research 
+				\item<4> Business Forecasting and Optimization
+				\item<5> Risk Forecasting in Medical Fields
+				\item<6> Decision Making of Regular Jobs 
+			\end{itemize}
+		}
+	\end{frame}
+	
+	\subsection{Example Cases}
+	\begin{frame}{Regression | Some Real Life Examples}
+		\begin{center}
+			\vspace{-5mm}
+			\includegraphics[scale=0.2]{images/wea}
+		\end{center}
+	\end{frame}
+	
+	\begin{frame}{Regression | Some Real Life Examples}
+		\begin{figure}
+			\begin{center}
+				\vspace{-5mm}
+				\includegraphics[scale=0.2]{images/sto}
+				\caption{Stock Market Estimation}
+			\end{center}
+		\end{figure}
+	\end{frame}
+	
+	\begin{frame}{Regression | Some Real Life Examples}
+		\begin{figure}
+			\begin{center}
+				\vspace{-5mm}
+				\includegraphics[scale=0.2]{images/reco}
+				\caption{Recommendation Engine}
+			\end{center}
+		\end{figure}
+	\end{frame}
+	
+	\begin{frame}{Regression | Some Real Life Examples}
+		\begin{center}
+			\vspace{-10mm}
+			\includegraphics[scale=0.2]{images/crow}
+		\end{center}
+	\end{frame}
+	
+	\section{Classifications}
+	\begin{frame}{Introduction | Classifications}
+		\begin{center}
+			\large{In machine learning and statistics, classification is the problem of identifying to which of a set of categories (sub-populations) a new observation belongs.}\\
+			\bigskip
+			\small{ On the basis of a training set of data containing observations (or instances) whose category 							membership is known.}
+			\begin{figure}
+				\centering
+				\includegraphics[width=60mm,height=40mm]{images/barun_1}
+				\caption[]{Classification}
+			\end{figure}
+		\end{center}
+		
+	\end{frame}
+	\subsection{Usages}
+	\begin{frame}{Usages | When it is used?}
+		\begin{center}
+			\large{Classification is considered an instance of supervised learning, i.e. learning where a training set of correctly identified observations is available..}\\
+			\bigskip
 			
-		\end{frame}
-		\subsection{Usages}
-		\begin{frame}{Usages | When it is used?}
-			\begin{center}
-				\large{Classification is considered an instance of supervised learning, i.e. learning where a training set of correctly identified observations is available..}\\
-				\bigskip
-				
-				\begin{figure}
-					\centering
-					\includegraphics[width=60mm,height=40mm]{images/barun_2}
-					\caption[]{Training set is correctly Identified.}
-				\end{figure}
-			\end{center}
-		\end{frame}
-		\begin{frame}{Usage | Types of Classifiers!!}
-			\large{KNN algorithm :-}
 			\begin{figure}
 				\centering
-				\includegraphics[width=70mm,height=60mm]{images/barun_3}
-				\caption[]{Example}
+				\includegraphics[width=60mm,height=40mm]{images/barun_2}
+				\caption[]{Training set is correctly Identified.}
 			\end{figure}
-		\end{frame}
-		\begin{frame}{Usage | Types of Classifiers!!}
-			\large{Decision Tree :-}\\
+		\end{center}
+	\end{frame}
+	\begin{frame}{Usage | Types of Classifiers!!}
+		\large{KNN algorithm :-}
+		\begin{figure}
+			\centering
+			\includegraphics[width=70mm,height=60mm]{images/barun_3}
+			\caption[]{Example}
+		\end{figure}
+	\end{frame}
+	\begin{frame}{Usage | Types of Classifiers!!}
+		\large{Decision Tree :-}\\
+		\begin{figure}
+			\centering
+			\includegraphics[scale=0.2]{images/barun_4}
+			
+		\end{figure}
+	\end{frame}
+	\subsection{Example Cases}
+	\begin{frame}{Example Cases | Real Life Examples}
+		\begin{center}
+			
+			\begin{itemize}
+				\item<2-> Example 1:-
+				An emergency room in a hospital measures 17 variables (e.g., blood pressure, age, etc) of newly admitted patients.
+				A decision is needed: whether to put a new patient in an intensive-care unit.
+				Due to the high cost of ICU, those patients who may survive less than a month are given higher priority.
+				
+				{\color{red} Problem: to predict high-risk patients and discriminate them from low-risk patients.}
+				\item<3-> Example 2:-
+				A credit card company receives thousands of applications for new cards. Each application contains information about an applicant,
+				age
+				Marital status
+				annual salary
+				outstanding debts
+				credit rating
+				etc.
+				
+				{\color{red}Problem: to decide whether an application should approved, or to classify applications into two categories, approved and not approved.}
+			\end{itemize}
+		\end{center}
+	\end{frame}
+	
+	
+	\section{Deep Learning}
+	\begin{frame}{Deep Learning | What is Deep Learning}
+		\centering{
+			\movie[showcontrols=true]
+			{           \includegraphics[scale=0.3 ]{images/somnath_4} } {video/somnath_5.mov}
+		}
+	\end{frame}
+	\begin{frame}{Meaning | Deep Learning}
+		\includegraphics[scale=0.5]{images/somnath_1}
+	\end{frame}
+	\subsection{Neural Networks}
+	\begin{frame}{Neural Networks | What is ANN?}
+		\begin{figure}
+			\centering
+			\includegraphics[width=60mm,height=70mm]{images/somnath_2}
+			\caption[]{Artificial Neural Network}
+		\end{figure}
+	\end{frame}
+	\subsection{Meaning}
+	\begin{frame}{Traditional vs Deep learning | Deep Learning}
+		\begin{figure}
+			\centering
+			\includegraphics[width=80mm,height=70mm]{images/somnath_3}
+			\caption[]{Tradition vs Deep Learning}
+		\end{figure}
+	\end{frame}
+	
+	\subsection{Advantages}
+	\begin{frame}{Advantages | Deep Learning}
+		\begin{center}
+			\begin{itemize}
+				\item Has best-in-class performance on problems that significantly outperforms other solutions in multiple domains. This includes speech, language, vision, playing games like Go etc. This isn’t by a little bit, but by a significant amount. The current record is from 2013 where it classified 9979 out of 10,000 images accurately. This performance is human equivalent or even better. A Silicon Valley–based startup called Vicarious claims it’s created an artificial intelligence program so advanced it can solve CAPTCHAs with accuracy that, in many cases, approaches 100 percent.
+				\item Reduces the need for feature engineering, one of the most time-consuming parts of machine learning practice.
+				
+			\end{itemize}
 			\begin{figure}
 				\centering
-				\includegraphics[scale=0.2]{images/barun_4}
-				
+				\includegraphics[width=30mm,height=10mm]{images/somnath_6}
+				\caption[]{Captcha}
 			\end{figure}
-		\end{frame}
-		\subsection{Example Cases}
-		\begin{frame}{Example Cases | Real Life Examples}
-			\begin{center}
+		\end{center}
+	\end{frame}
+	\subsection{Advantages}
+	\begin{frame}{Disadvantages | Deep Learning}
+		\begin{center}
+			\begin{itemize}
+				\item Requires a large amount of data — if you only have thousands of example, deep learning is unlikely to outperform other approaches.
+				\item Is extremely computationally expensive to train. The most complex models take weeks to train using hundreds of machines equipped with expensive GPUs.
+				\item Do not have much in the way of strong theoretical foundation. This leads to the next disadvantage.
+				\item Determining the topology/flavor/training method/hyperparameters for deep learning is a black art with no theory to guide you.
+				\item What is learned is not easy to comprehend. Other classifiers (e.g. decision trees, logistic regression etc) make it much easier to understand what’s going on.
+				.
 				
-				\begin{itemize}
-					\item<2-> Example 1:-
-					An emergency room in a hospital measures 17 variables (e.g., blood pressure, age, etc) of newly admitted patients.
-					A decision is needed: whether to put a new patient in an intensive-care unit.
-					Due to the high cost of ICU, those patients who may survive less than a month are given higher priority.
-					
-					{\color{red} Problem: to predict high-risk patients and discriminate them from low-risk patients.}
-					\item<3-> Example 2:-
-					A credit card company receives thousands of applications for new cards. Each application contains information about an applicant,
-					age
-					Marital status
-					annual salary
-					outstanding debts
-					credit rating
-					etc.
-					
-					{\color{red}Problem: to decide whether an application should approved, or to classify applications into two categories, approved and not approved.}
-				\end{itemize}
-			\end{center}
-		\end{frame}
-		
-		
-		\section{Deep Learning}
-		\begin{frame}{Deep Learning | What is Deep Learning}
+			\end{itemize}
+		\end{center}
+	\end{frame}
+	\subsection{Usages}
+	\begin{frame}{Usages | Deep Learning}
+		\begin{center}
+			
+			
+			Google Brain
+			
 			\centering{
 				\movie[showcontrols=true]
-				{           \includegraphics[scale=0.3 ]{images/somnath_4} } {video/somnath_5.mov}
+				{                  \includegraphics[scale=0.5]{images/somnath_11} } {video/somnath_10.mov}
 			}
-		\end{frame}
-		\begin{frame}{Meaning | Deep Learning}
-			\includegraphics[scale=0.5]{images/somnath_1}
-		\end{frame}
-		\subsection{Neural Networks}
-		\begin{frame}{Neural Networks | What is ANN?}
-			\begin{figure}
-				\centering
-				\includegraphics[width=60mm,height=70mm]{images/somnath_2}
-				\caption[]{Artificial Neural Network}
-			\end{figure}
-		\end{frame}
-		\subsection{Meaning}
-		\begin{frame}{Traditional vs Deep learning | Deep Learning}
-			\begin{figure}
-				\centering
-				\includegraphics[width=80mm,height=70mm]{images/somnath_3}
-				\caption[]{Tradition vs Deep Learning}
-			\end{figure}
-		\end{frame}
-		
-		\subsection{Advantages}
-		\begin{frame}{Advantages | Deep Learning}
-			\begin{center}
-				\begin{itemize}
-					\item Has best-in-class performance on problems that significantly outperforms other solutions in multiple domains. This includes speech, language, vision, playing games like Go etc. This isn’t by a little bit, but by a significant amount. The current record is from 2013 where it classified 9979 out of 10,000 images accurately. This performance is human equivalent or even better. A Silicon Valley–based startup called Vicarious claims it’s created an artificial intelligence program so advanced it can solve CAPTCHAs with accuracy that, in many cases, approaches 100 percent.
-					\item Reduces the need for feature engineering, one of the most time-consuming parts of machine learning practice.
-					
-				\end{itemize}
-				\begin{figure}
-					\centering
-					\includegraphics[width=30mm,height=10mm]{images/somnath_6}
-					\caption[]{Captcha}
-				\end{figure}
-			\end{center}
-		\end{frame}
-		\subsection{Advantages}
-		\begin{frame}{Disadvantages | Deep Learning}
-			\begin{center}
-				\begin{itemize}
-					\item Requires a large amount of data — if you only have thousands of example, deep learning is unlikely to outperform other approaches.
-					\item Is extremely computationally expensive to train. The most complex models take weeks to train using hundreds of machines equipped with expensive GPUs.
-					\item Do not have much in the way of strong theoretical foundation. This leads to the next disadvantage.
-					\item Determining the topology/flavor/training method/hyperparameters for deep learning is a black art with no theory to guide you.
-					\item What is learned is not easy to comprehend. Other classifiers (e.g. decision trees, logistic regression etc) make it much easier to understand what’s going on.
-					.
-					
-				\end{itemize}
-			\end{center}
-		\end{frame}
-		\subsection{Usages}
-		\begin{frame}{Usages | Deep Learning}
-			\begin{center}
-				
-				
-				Google Brain
-				
-				\centering{
-					\movie[showcontrols=true]
-					{                  \includegraphics[scale=0.5]{images/somnath_11} } {video/somnath_10.mov}
-				}
-				
-				
-			\end{center}
-		\end{frame}
-		\begin{frame}{Usages | Deep Learning}
-			\begin{center}
-				
-				
-				GoogleDeepMind
-				
-				\centering{
-					\movie[showcontrols=true]
-					{                  \includegraphics[scale=0.34]{images/somnath_9} } {video/somnath_12.mov}
-				}
-			\end{center}
-		\end{frame}
-		\begin{frame}{Usages | Deep Learning}
-			\begin{center}
-				
-				
-				Prisma
-				
-				\includegraphics[scale=0.05 ]{images/somnath_13}
-				
-				\includegraphics[width=40mm,height=40mm ]{images/somnath_14}  \includegraphics[width=40mm,height=40mm  ]{images/somnath_15}
-				
-				
-			\end{center}
-		\end{frame}
-		\begin{frame}{Usages | Deep Learning}
-			\begin{center}
-				
-				
-				Mageta
-				
-				
-				\centering{
-					\movie[showcontrols=true]
-					{                  \includegraphics[scale=0.05 ]{images/somnath_8} } {video/somnath_7.mov}
-				}
-				
-				
-			\end{center}
-		\end{frame}
+			
+			
+		\end{center}
+	\end{frame}
+	\begin{frame}{Usages | Deep Learning}
+		\begin{center}
+			
+			
+			GoogleDeepMind
+			
+			\centering{
+				\movie[showcontrols=true]
+				{                  \includegraphics[scale=0.34]{images/somnath_9} } {video/somnath_12.mov}
+			}
+		\end{center}
+	\end{frame}
+	\begin{frame}{Usages | Deep Learning}
+		\begin{center}
+			
+			
+			Prisma
+			
+			\includegraphics[scale=0.05 ]{images/somnath_13}
+			\includegraphics[width=40mm,height=40mm ]{images/somnath_14}  \includegraphics[width=40mm,height=40mm  ]{images/somnath_15}
+			
+			
+		\end{center}
+	\end{frame}
+	\begin{frame}{Usages | Deep Learning}
+		\begin{center}
+			
+			
+			Mageta
+			
+			
+			\centering{
+				\movie[showcontrols=true]
+				{                  \includegraphics[scale=0.05 ]{images/somnath_8} } {video/somnath_7.mov}
+			}
+			
+			
+		\end{center}
+	\end{frame}
 	
 	
 	
 	\section{Conclusion}
-		\begin{frame}{The pain is almost over}
-		\end{frame}
-		\begin{frame}{Bibliography}
-			\twocolumn
-			\begin{itemize}
-				\item \scriptsize{Phil Simon (March 18, 2013). Too Big to Ignore: The Business Case for Big Data. Wiley. p. 89. ISBN 978-1-118
-					-63817-0.}
-				\item \scriptsize{Mitchell, T. (1997). Machine Learning, McGraw Hill. ISBN 0-07-042807-7}
-				\item \scriptsize{ Mehryar Mohri, Afshin Rostamizadeh, Ameet Talwalkar (2012) Foundations of Machine Learning, The MIT Press ISBN 9780262018258.}
-				\item \scriptsize{Jordan, Michael I.; Bishop, Christopher M. (2004). "Neural Networks". In Allen B. Tucker. Computer Science Handbook, Second Edition (Section VII: Intelligent Systems). Boca Raton, FL: Chapman \& Hall/CRC Press LLC. ISBN 1-58488-360-X.}
-				\item \scriptsize{https: //www.kaggle.com/c/twitter-psychopathy-prediction}
-				\item \scriptsize{Mastering the game of Go with deep neural networks and tree search (2016), D. Silver et al.}
-			\end{itemize}
-			\onecolumn
-		\end{frame}
-\endgroup
-
-\begingroup
+	\begin{frame}{Bibliography}
+		\twocolumn
+		\begin{itemize}
+			\item \scriptsize{Phil Simon (March 18, 2013). Too Big to Ignore: The Business Case for Big Data. Wiley. p. 89. ISBN 978-1-118
+				-63817-0.}
+			\item \scriptsize{Mitchell, T. (1997). Machine Learning, McGraw Hill. ISBN 0-07-042807-7}
+			\item \scriptsize{ Mehryar Mohri, Afshin Rostamizadeh, Ameet Talwalkar (2012) Foundations of Machine Learning, The MIT Press ISBN 9780262018258.}
+			\item \scriptsize{Jordan, Michael I.; Bishop, Christopher M. (2004). "Neural Networks". In Allen B. Tucker. Computer Science Handbook, Second Edition (Section VII: Intelligent Systems). Boca Raton, FL: Chapman \& Hall/CRC Press LLC. ISBN 1-58488-360-X.}
+			\item \scriptsize{https: //www.kaggle.com/c/twitter-psychopathy-prediction}
+			\item \scriptsize{Mastering the game of Go with deep neural networks and tree search (2016), D. Silver et al.}
+		\end{itemize}
+		\onecolumn
+	\end{frame}
+	\endgroup
+	
+	\begingroup
 	\setbeamercolor{background canvas}{bg=blue_dark}
 	\setbeamercolor{normal text}{fg=blue_light}
 	\begin{frame}[plain,c]
@@ -530,8 +619,6 @@
 		\vspace*{-20 mm}
 		\textcolor{blue_light}{\Large{The End}}
 	\end{frame}
-\endgroup
-
+	\endgroup
+	
 \end{document}
-
-
