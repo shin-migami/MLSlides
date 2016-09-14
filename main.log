@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.9.4)  13 SEP 2016 09:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.9.4)  14 SEP 2016 08:23
 entering extended mode
 **./main.tex
 (main.tex
@@ -1071,7 +1071,7 @@ Package pdftex.def Info: images/bg-vec.png used on input line 157.
 (pdftex.def)             Requested size: 364.1985pt x 273.14886pt.
  [8
 
- <./images/unsupl-ex.png>] <images/cpp-repr.png, id=210, 803.0pt x 803.0pt>
+ <./images/unsupl-ex.png>] <images/cpp-repr.png, id=206, 803.0pt x 803.0pt>
 File: images/cpp-repr.png Graphic file (type png)
  <use images/cpp-repr.png>
 Package pdftex.def Info: images/cpp-repr.png used on input line 181.
@@ -1083,9 +1083,8 @@ Package pdftex.def Info: images/bg-vec.png used on input line 181.
 (pdftex.def)             Requested size: 364.1985pt x 273.14886pt.
  [9
 
-<<sounds/cpp-mix1.wav>><<sounds/cpp-mix2.wav>><<sounds/cpp-output1.wav>><<sound
-s/cpp-output2.wav>> <./images/cpp-repr.png>]
-<images/gene-classification.png, id=228, 1335.99126pt x 503.8825pt>
+ <./images/cpp-repr.png>]
+<images/gene-classification.png, id=224, 1335.99126pt x 503.8825pt>
 File: images/gene-classification.png Graphic file (type png)
 
 <use images/gene-classification.png>
@@ -1106,19 +1105,19 @@ Package pdftex.def Info: images/bg-vec.png used on input line 210.
  [11
 
 ]
-<images/app-2.png, id=259, 803.0pt x 455.7025pt>
+<images/app-2.png, id=255, 803.0pt x 455.7025pt>
 File: images/app-2.png Graphic file (type png)
  <use images/app-2.png>
 Package pdftex.def Info: images/app-2.png used on input line 250.
 (pdftex.def)             Requested size: 125.47585pt x 71.20334pt.
 
-<images/app-3.png, id=260, 466.74374pt x 158.09062pt>
+<images/app-3.png, id=256, 466.74374pt x 158.09062pt>
 File: images/app-3.png Graphic file (type png)
  <use images/app-3.png>
 Package pdftex.def Info: images/app-3.png used on input line 250.
 (pdftex.def)             Requested size: 125.47585pt x 42.49928pt.
 
-<images/app-5.png, id=261, 511.9125pt x 280.04625pt>
+<images/app-5.png, id=257, 511.9125pt x 280.04625pt>
 File: images/app-5.png Graphic file (type png)
  <use images/app-5.png>
 Package pdftex.def Info: images/app-5.png used on input line 250.
@@ -1131,7 +1130,7 @@ Package pdftex.def Info: images/bg-vec.png used on input line 250.
  [12
 
  <./images/app-2.png> <./images/app-3.png> <./images/app-5.png>] <images/app-1.
-png, id=279, 803.0pt x 399.4925pt>
+png, id=275, 803.0pt x 399.4925pt>
 File: images/app-1.png Graphic file (type png)
 
 <use images/app-1.png>
@@ -1144,44 +1143,49 @@ Package pdftex.def Info: images/bg-vec.png used on input line 260.
  [13
 
  <./images/app-1.png>]
+<images/app-6.png, id=293, 1441.385pt x 722.7pt>
+File: images/app-6.png Graphic file (type png)
+ <use images/app-6.png>
+Package pdftex.def Info: images/app-6.png used on input line 264.
+(pdftex.def)             Requested size: 278.83713pt x 139.80664pt.
 File: images/bg-vec.png Graphic file (type png)
 
 <use images/bg-vec.png>
-Package pdftex.def Info: images/bg-vec.png used on input line 263.
+Package pdftex.def Info: images/bg-vec.png used on input line 264.
 (pdftex.def)             Requested size: 364.1985pt x 273.14886pt.
  [14
 
-]
+ <./images/app-6.png>]
 File: images/bg-vec.png Graphic file (type png)
  <use images/bg-vec.png>
-Package pdftex.def Info: images/bg-vec.png used on input line 286.
+Package pdftex.def Info: images/bg-vec.png used on input line 287.
 (pdftex.def)             Requested size: 364.1985pt x 273.14886pt.
- [15
 
-]
-<images/pca-merge.png, id=327, 461.725pt x 1057.9525pt>
+[15
+
+] <images/pca-merge.png, id=326, 461.725pt x 1057.9525pt>
 File: images/pca-merge.png Graphic file (type png)
 
 <use images/pca-merge.png>
-Package pdftex.def Info: images/pca-merge.png used on input line 304.
+Package pdftex.def Info: images/pca-merge.png used on input line 305.
 (pdftex.def)             Requested size: 91.57541pt x 209.83054pt.
 File: images/bg-vec.png Graphic file (type png)
  <use images/bg-vec.png>
-Package pdftex.def Info: images/bg-vec.png used on input line 304.
+Package pdftex.def Info: images/bg-vec.png used on input line 305.
 (pdftex.def)             Requested size: 364.1985pt x 273.14886pt.
  [16
 
  <./images/pca-merge.png>]
 File: images/bg-vec.png Graphic file (type png)
  <use images/bg-vec.png>
-Package pdftex.def Info: images/bg-vec.png used on input line 307.
+Package pdftex.def Info: images/bg-vec.png used on input line 308.
 (pdftex.def)             Requested size: 364.1985pt x 273.14886pt.
  [17
 
 ]
 File: images/bg-vec.png Graphic file (type png)
  <use images/bg-vec.png>
-Package pdftex.def Info: images/bg-vec.png used on input line 310.
+Package pdftex.def Info: images/bg-vec.png used on input line 311.
 (pdftex.def)             Requested size: 364.1985pt x 273.14886pt.
  [18
 
@@ -1189,14 +1193,14 @@ Package pdftex.def Info: images/bg-vec.png used on input line 310.
 File: images/bg-vec.png Graphic file (type png)
 
 <use images/bg-vec.png>
-Package pdftex.def Info: images/bg-vec.png used on input line 313.
+Package pdftex.def Info: images/bg-vec.png used on input line 314.
 (pdftex.def)             Requested size: 364.1985pt x 273.14886pt.
  [19
 
 ]
 File: images/bg-vec.png Graphic file (type png)
  <use images/bg-vec.png>
-Package pdftex.def Info: images/bg-vec.png used on input line 316.
+Package pdftex.def Info: images/bg-vec.png used on input line 317.
 (pdftex.def)             Requested size: 364.1985pt x 273.14886pt.
  [20
 
@@ -1204,14 +1208,14 @@ Package pdftex.def Info: images/bg-vec.png used on input line 316.
 File: images/bg-vec.png Graphic file (type png)
 
 <use images/bg-vec.png>
-Package pdftex.def Info: images/bg-vec.png used on input line 320.
+Package pdftex.def Info: images/bg-vec.png used on input line 321.
 (pdftex.def)             Requested size: 364.1985pt x 273.14886pt.
  [21
 
 ]
 File: images/bg-vec.png Graphic file (type png)
  <use images/bg-vec.png>
-Package pdftex.def Info: images/bg-vec.png used on input line 323.
+Package pdftex.def Info: images/bg-vec.png used on input line 324.
 (pdftex.def)             Requested size: 364.1985pt x 273.14886pt.
  [22
 
@@ -1219,14 +1223,14 @@ Package pdftex.def Info: images/bg-vec.png used on input line 323.
 File: images/bg-vec.png Graphic file (type png)
 
 <use images/bg-vec.png>
-Package pdftex.def Info: images/bg-vec.png used on input line 326.
+Package pdftex.def Info: images/bg-vec.png used on input line 327.
 (pdftex.def)             Requested size: 364.1985pt x 273.14886pt.
  [23
 
 ]
 File: images/bg-vec.png Graphic file (type png)
  <use images/bg-vec.png>
-Package pdftex.def Info: images/bg-vec.png used on input line 331.
+Package pdftex.def Info: images/bg-vec.png used on input line 332.
 (pdftex.def)             Requested size: 364.1985pt x 273.14886pt.
  [24
 
@@ -1234,14 +1238,14 @@ Package pdftex.def Info: images/bg-vec.png used on input line 331.
 File: images/bg-vec.png Graphic file (type png)
 
 <use images/bg-vec.png>
-Package pdftex.def Info: images/bg-vec.png used on input line 334.
+Package pdftex.def Info: images/bg-vec.png used on input line 335.
 (pdftex.def)             Requested size: 364.1985pt x 273.14886pt.
  [25
 
 ]
 File: images/bg-vec.png Graphic file (type png)
  <use images/bg-vec.png>
-Package pdftex.def Info: images/bg-vec.png used on input line 337.
+Package pdftex.def Info: images/bg-vec.png used on input line 338.
 (pdftex.def)             Requested size: 364.1985pt x 273.14886pt.
  [26
 
@@ -1249,14 +1253,14 @@ Package pdftex.def Info: images/bg-vec.png used on input line 337.
 File: images/bg-vec.png Graphic file (type png)
 
 <use images/bg-vec.png>
-Package pdftex.def Info: images/bg-vec.png used on input line 340.
+Package pdftex.def Info: images/bg-vec.png used on input line 341.
 (pdftex.def)             Requested size: 364.1985pt x 273.14886pt.
  [27
 
 ]
 File: images/bg-vec.png Graphic file (type png)
  <use images/bg-vec.png>
-Package pdftex.def Info: images/bg-vec.png used on input line 343.
+Package pdftex.def Info: images/bg-vec.png used on input line 344.
 (pdftex.def)             Requested size: 364.1985pt x 273.14886pt.
  [28
 
@@ -1264,14 +1268,14 @@ Package pdftex.def Info: images/bg-vec.png used on input line 343.
 File: images/bg-vec.png Graphic file (type png)
 
 <use images/bg-vec.png>
-Package pdftex.def Info: images/bg-vec.png used on input line 349.
+Package pdftex.def Info: images/bg-vec.png used on input line 350.
 (pdftex.def)             Requested size: 364.1985pt x 273.14886pt.
  [29
 
 ]
 File: images/bg-vec.png Graphic file (type png)
  <use images/bg-vec.png>
-Package pdftex.def Info: images/bg-vec.png used on input line 362.
+Package pdftex.def Info: images/bg-vec.png used on input line 363.
 (pdftex.def)             Requested size: 364.1985pt x 273.14886pt.
  [30
 
@@ -1291,29 +1295,29 @@ Package pdftex.def Info: images/bg-vec.png used on input line 362.
 \tf@snm=\write8
 \openout8 = `main.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 380.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 380.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 381.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 381.
  (main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 380.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 380.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 381.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 381.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: BD3E884E579E380B031950527ABF7D15;1043.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 380.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 381.
  ) 
 Here is how much of TeX's memory you used:
- 20126 strings out of 493334
- 391973 string characters out of 3146991
+ 20133 strings out of 493334
+ 392076 string characters out of 3146991
  463200 words of memory out of 3000000
- 23071 multiletter control sequences out of 15000+200000
+ 23074 multiletter control sequences out of 15000+200000
  30050 words of font info for 61 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,16n,59p,438b,1169s stack positions out of 5000i,500n,10000p,200000b,50000s
 {H:/MiKTeX/fonts/enc/dvips/fontname/8r.enc}<H:/MiKTeX/fonts/type1/urw/times/u
 tmb8a.pfb><H:/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><H:/MiKTeX/fonts/type1/ur
 w/times/utmri8a.pfb>
-Output written on main.pdf (32 pages, 1461661 bytes).
+Output written on main.pdf (32 pages, 1361437 bytes).
 PDF statistics:
- 576 PDF objects out of 1000 (max. 8388607)
+ 575 PDF objects out of 1000 (max. 8388607)
  83 named destinations out of 1000 (max. 500000)
- 262 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 251 words of extra memory for PDF output out of 10000 (max. 10000000)
 
