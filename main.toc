@@ -10,10 +10,11 @@
 \beamer@subsectionintoc {2}{3}{Example Cases}{20}{0}{2}
 \beamer@sectionintoc {3}{Classifications}{21}{0}{3}
 \beamer@subsectionintoc {3}{1}{Usages}{22}{0}{3}
-\beamer@subsectionintoc {3}{2}{Example Cases}{23}{0}{3}
-\beamer@sectionintoc {4}{Deep Learning}{24}{0}{4}
-\beamer@subsectionintoc {4}{1}{Neural Networks}{25}{0}{4}
-\beamer@subsectionintoc {4}{2}{Meaning}{26}{0}{4}
-\beamer@subsectionintoc {4}{3}{Usages}{27}{0}{4}
-\beamer@subsectionintoc {4}{4}{Advantages}{28}{0}{4}
-\beamer@sectionintoc {5}{Conclusion}{29}{0}{5}
+\beamer@subsectionintoc {3}{2}{Example Cases}{25}{0}{3}
+\beamer@sectionintoc {4}{Deep Learning}{28}{0}{4}
+\beamer@subsectionintoc {4}{1}{Neural Networks}{30}{0}{4}
+\beamer@subsectionintoc {4}{2}{Meaning}{31}{0}{4}
+\beamer@subsectionintoc {4}{3}{Advantages}{32}{0}{4}
+\beamer@subsectionintoc {4}{4}{Advantages}{33}{0}{4}
+\beamer@subsectionintoc {4}{5}{Usages}{34}{0}{4}
+\beamer@sectionintoc {5}{Conclusion}{38}{0}{5}
